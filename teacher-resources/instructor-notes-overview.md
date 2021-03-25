@@ -28,7 +28,7 @@ At the start of the course we use Code.org and Block Based coding to start the p
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-Next, we use KhanAcademy to guide the students along a visual course using JavaScript. This is the  majority of the course.
+Next, we use KhanAcademy to guide the students along a visual course using JavaScript. This is the majority of the course.
 
 ### 3\) Games & Energisers
 
@@ -38,9 +38,9 @@ You can find a resources for these [here](engergisers.md).
 
 ### 4\) Assessments
 
-A really important part of this course is the assessment section which happens either during classes or in the time in between. The question we are trying to answer during Fundamentals is 
+A really important part of this course is the assessment section which happens either during classes or in the time in between. The question we are trying to answer during Fundamentals is
 
 > Does this student have the commitment and show the qualities we need for them to complete the Full Stack Course?
 
-The assessments take place in weeks 2, 3 and 4. See the [Assessments ](assessments.md)page for more details. 
+The assessments take place in weeks 2, 3 and 4. See the [Assessments ](assessments.md)page for more details.
 

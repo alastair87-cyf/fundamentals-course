@@ -10,7 +10,7 @@ Let's make sure we know each other!
 
 ### Warm up game
 
-Online icebreaker 
+Online icebreaker
 
 ## Shout out your questions \(10 minutes\)
 
@@ -152,5 +152,5 @@ Continue to **Week 3** of the [Learning How to Learn course](https://www.courser
 
 Work through **Week 2** of the [Learning Online: Communicating and Collaborating](https://www.futurelearn.com/courses/learning-and-collaborating/) course. It should take around 2 hours to complete.
 
-You need to submit your comments in threads on Slack _**not**_ in the comments section on Future Learn. 
+You need to submit your comments in threads on Slack _**not**_ in the comments section on Future Learn.
 

@@ -69,7 +69,7 @@ In addition to ["Code! Programming with p5.js"](from-khan-academy-processingjs-t
 * The creators of processing have [a p5.js course on kadenze.com - "Introduction to Programming for the Visual Arts with p5.js"](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi/info)
 * Joshua Davis has some courses on processing on skillshare, which is free for 2 months.
 
-  [Programming Graphics I: Introduction to Generative Art](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657).  This does _not_ teach in javascript but in Processing, which uses the Java language instead.  However, if you LOVE the topic, you could skim these videos and still learn a lot.  Normally I would recommend getting strong in ONE language \(JavaScript\) for the first year or two of your programming journey.
+  [Programming Graphics I: Introduction to Generative Art](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657). This does _not_ teach in javascript but in Processing, which uses the Java language instead. However, if you LOVE the topic, you could skim these videos and still learn a lot. Normally I would recommend getting strong in ONE language \(JavaScript\) for the first year or two of your programming journey.
 
 * Mostly aimed at teachers: [Introduction to Computational Media with p5.js](https://nycdoe-cs4all.github.io/) has material for teachers to run a course. Students can find some interesting project ideas.
 * If you want to stick with processing.js and Khan Academy longer, there is [Advanced JS: Games and Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations). I haven't worked through this course, yet.
@@ -142,7 +142,7 @@ var draw = function(){
 
 However, you can make it bigger calling `createCanvas()` in `setup()`.
 
-[Live Demo of specifying canvas size](https://www.openprocessing.org/sketch/create): 
+[Live Demo of specifying canvas size](https://www.openprocessing.org/sketch/create):
 
 ```javascript
 var setup = function(){

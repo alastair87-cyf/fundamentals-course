@@ -109,7 +109,7 @@ You should **SKIP** the "Object-Orientated Design" section. It is out-of-date an
 
 Continue to **Week 4** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 4 hours to complete.
 
-### 3\) \(Optional\) Continuing with JavaScript Drawing and Animation 
+### 3\) \(Optional\) Continuing with JavaScript Drawing and Animation
 
 If you enjoyed using JavaScript to make drawings and animations, we recommend further study and play with the p5.js library, using the [OpenProcessing](https://openprocessing.org) platform or CodePen.
 

@@ -35,7 +35,7 @@ There are a series of tasks that you need to complete to be ready to deliver thi
 
 ### 2.1\) Google Classroom
 
-In the past we've used Google Classroom to manage coursework assignment and submission. 
+In the past we've used Google Classroom to manage coursework assignment and submission.
 
 The easiest way to do this is to copy a class from previous years. Ask your class coordinator how to do this.
 
@@ -55,9 +55,9 @@ Be sure to invite all of the students to the class before the course starts.
 
 In order to monitor student progress on the course, it is recommended that several teacher and TA volunteers set themselves up a 'class' in KhanAcademy right at the very start of the course, and then get ALL students to join ALL classes. This gives visibility of the student rota, their exercise progress, and perhaps most importantly, their project attempts.
 
-Student progress often won't be updated on your dashboard until as much as 5-10 minutes have passed.   
-  
-Khan Academy has created some '[How to teach remotely'](https://www.khanacademy.org/khan-for-educators/k4e-us-demo/xb78db74671c953a7:khan-for-educators#xb78db74671c953a7:teaching-remotely-with-khan-academy) training materials. 
+Student progress often won't be updated on your dashboard until as much as 5-10 minutes have passed.
+
+Khan Academy has created some '[How to teach remotely'](https://www.khanacademy.org/khan-for-educators/k4e-us-demo/xb78db74671c953a7:khan-for-educators#xb78db74671c953a7:teaching-remotely-with-khan-academy) training materials.
 
 ## 3\) Student Setup
 
@@ -69,9 +69,9 @@ If you have time, a short phone call with each of them to run through the checkl
 
 ### **3.2\) Student Invites**
 
-At least a week before the first class make sure that all students know when and where they are meant to be attending. 
+At least a week before the first class make sure that all students know when and where they are meant to be attending.
 
-It is wise to tell them to be there 5-10 minutes before you plan to start to allow for late comers. 
+It is wise to tell them to be there 5-10 minutes before you plan to start to allow for late comers.
 
 ## **4\) Volunteer Setup**
 
@@ -88,7 +88,7 @@ This course benefits from their being a few Teaching Assistants to provide one-t
 
 Be sure that you have familiarised yourself with all of the content that is taught over the four weeks of the course.
 
-It is advised that you attempt the coursework yourself to make sure you understand exactly what is expected of the students. 
+It is advised that you attempt the coursework yourself to make sure you understand exactly what is expected of the students.
 
 ## 5\) Prepare for Assessments
 

@@ -53,7 +53,7 @@ Then give 5 minutes for the students to prepare which project they want to prese
 
 Finally split into small groups \(per-table usually works well\) and take it turns to present. If possible, have a volunteer sit with each group to listen in and time-keep.
 
-## Improve Your Favourite Khan Academy Project 
+## Improve Your Favourite Khan Academy Project
 
 ### Pairing
 
@@ -67,7 +67,7 @@ This is very likely to be the first time they have ever paired on a programming 
 
 #### Previous Slides
 
-{% embed url="https://docs.google.com/presentation/d/11XKf7yVRh6Z6pcfgXeM9WxDLvmDT7hUEb5QkLOuHlDo/edit" %}
+{% embed url="https://docs.google.com/presentation/d/11XKf7yVRh6Z6pcfgXeM9WxDLvmDT7hUEb5QkLOuHlDo/edit" caption="" %}
 
 ### 1-to-1 Assessments
 
@@ -77,7 +77,7 @@ Details for this assessment can be found here.
 
 [Khan Academy - Three Cars](assessments.md#week-3-khan-academy-three-cars)
 
-## Assigning Coursework 
+## Assigning Coursework
 
 At the end of Class, assign the coursework for this week through Google Classroom.
 

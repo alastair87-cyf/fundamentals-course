@@ -6,11 +6,11 @@ description: How do we decide who moves onto the Full Course?
 
 In this document you will find the selection process that can be followed to choose who should move from the Fundamentals to the Full Stack course.
 
-As with everything at CodeYourFuture **you are welcome to edit, remix and change this as necessary to fit your specific circumstance**. You are fully in control of this process. 
+As with everything at CodeYourFuture **you are welcome to edit, remix and change this as necessary to fit your specific circumstance**. You are fully in control of this process.
 
 ## Fundamental Course Aims
 
-It's worth restating the aims of the Fundamentals Course from our point of view. 
+It's worth restating the aims of the Fundamentals Course from our point of view.
 
 At it's core, this course has been created to bring the majority of our students up to the same level before they progress on to the main course. However it is also great to dig deeper into
 
@@ -25,7 +25,7 @@ At it's core, this course has been created to bring the majority of our students
 
 The goal of this process is as follows
 
-> **Above all else, we want to give people a chance.   
+> **Above all else, we want to give people a chance.  
 >   
 > Our aim is to remove people who we believe to have a very low chance of succeeding or who are not as committed to the course as we need them to be.**
 
@@ -100,7 +100,7 @@ Make sure you split into small groups and go through a smaller set of students e
 
 ### Process
 
-The aim of the selection is to find the people who are obviously not ready to join the course. Broadly, if it a student has completed all of the coursework and been responsive to working then they will likely be a good fit for the course. 
+The aim of the selection is to find the people who are obviously not ready to join the course. Broadly, if it a student has completed all of the coursework and been responsive to working then they will likely be a good fit for the course.
 
 #### Coursework & Attendance Pass
 
@@ -115,7 +115,7 @@ The second pass is about finding student who didn't make the technical process t
 
 Did any of the students stand out as performing poorly on then technical challenges that they should be removed from the process.
 
-This is people who 
+This is people who
 
 * Score very poorly in their 1-to-1s
 
@@ -124,20 +124,16 @@ Scoring poorly means
 * They did not show they had learnt over the four week course
 * They could not apply the learning from KhanAcademy to the 1-to-1s
 
-Read over the [Technical & Coding Graduation Criteria](criteria.md#technical-and-coding) for the course, we are looking for students who fulfil the majority of these criteria but not necessarily all of them - if we are seeing development or growth in all of the areas that is what the Fundamentals is about. 
+Read over the [Technical & Coding Graduation Criteria](criteria.md#technical-and-coding) for the course, we are looking for students who fulfil the majority of these criteria but not necessarily all of them - if we are seeing development or growth in all of the areas that is what the Fundamentals is about.
 
 #### Soft Skills Development Pass
 
-Finally, the Soft Skills pass should try to work out if the students will be a good fit for the course. 
+Finally, the Soft Skills pass should try to work out if the students will be a good fit for the course.
 
 This is people who
 
 * Were actively disruptive in lessons 
 * Were actively rude or dismissive of volunteers or other students
 
-Read over the [Personal Development Graduation Criteria](criteria.md#personal-development) for the course, we are looking for students who fulfil the majority of these criteria but not necessarily all of them - if we are seeing development or growth in all of the areas that is what the Fundamentals is about. 
-
-
-
-
+Read over the [Personal Development Graduation Criteria](criteria.md#personal-development) for the course, we are looking for students who fulfil the majority of these criteria but not necessarily all of them - if we are seeing development or growth in all of the areas that is what the Fundamentals is about.
 

@@ -1,160 +1,175 @@
 ---
-description: Algorithms & Intro to JavaScript
+description: 'Welcome, Agreements & Block Based Coding'
 ---
 
-# Lesson 2
+# Lesson 1
 
-## Warm up activity \(30 minutes\)
+## Welcome \(30 minutes\)
 
-A picture tells a story: Let's start our introductions with an image
+Welcome to Code Your Future and to the world of programming!
 
-1. Find an image online of an object that represents you or why are are on the course.  
-2. Add the image to our Slack thread and an explanation of why you chose that particular object.  
-3. Once you have completed your post, look at what other people have posted.
-4. When you find any interesting images and ask that person a follow up question about it.
-5. If someone asks a question about your picture. Make sure you reply to their question with an answer
+This course was designed for people new to coding as well as more experienced people. Now that you have built a website in CodePen, we'll look at the basics of how programming works. We will start writing our own programs and what you can make with programming. We will also explore what kind of jobs are available to programmers.
 
-## What's your name? 
+## Introduction to Code Your Future \(30 minutes\)
 
-Let's make sure we know each other! Make sure your name is visible on Zoom. You can change your name by clicking the three dots on the right hand corner and clicking 'rename' .
+\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#past-slides)
 
-If you are a CYF volunteer please add 'Vol or Volunteer' after your name. 
+Before we get started with programming we want to learn a bit about you, and you can learn a bit about us.
 
-## Shout out your questions \(10 minutes\)
+We'll start with some introductions so that we can get to know each other. We'll play some games.
 
-\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes-1.md#shout-out-questions)\_\_
+## Student Agreement, Code of Conduct & House Rules \(45 minutes\)
 
-Let's make a list of all of the programming questions we'd like to get answered today, and put them on our virtual whiteboard. 
+\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#code-of-conduct-student-agreement-and-rules)\_\_
 
-We like to use [Miro](https://miro.com/login/).   
+While you're at Code Your Future, we expect you to follow some rules. This is so that **everyone** has a fun, productive and enjoyable experience.
 
-1. Log into Miro \(your instructor will give you the link for your Miro Board\)
-2. Find the sticky notes on the board.
-3. Find the note you wrote your name on for your coursework assignment. 
-4. Write your question on your note \(you must ask a question\)
-5. If you have more than 1 question, write each on a separate stiky note. To add a new note, use the toolbar on the left hand side to select a new note.
+We'll read through the [Student Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement), [Code of Conduct](https://codeyourfuture.github.io/syllabus-master/CODE_OF_CONDUCT.html) and [House Rules](https://codeyourfuture.github.io/syllabus-master/others/house-rules.html) together and answer any questions you have about them.
 
-## Solving problems \(90 minutes\)
+## Getting into Technology: Why & How \(35 minutes\)
 
-Problem solving is a critical skill for programmers, including for experts. Often programmers spend most of their day solving problems in their code. Learning how to solve problems efficiently is an extremely useful skill.
+\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#getting-into-technology-why-and-how-35-minutes)\_\_
 
-To help develop your problem solving skills, we'll play a [fun game](https://docs.google.com/presentation/d/1iHN8Up0gYLzX1MZztSSLltIIbuad_HcOwWTyC0u6Ybc/edit#slide=id.g4c9cfeb0ce_0_107) in small groups. 
+Next we'll have a presentation about why you would want to be a programmer.
 
-Then later on we, will practice working as a group to help each other solve problems using Miro, Slack and Google Meet. 
+## What level is the class starting at? \(15 minutes\)
 
-## "Algorithm Recipe" Review \(30 Minutes\)
+[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#kahoot)\_\_
 
-Last week you should have written a "algorithm recipe". The instructor will pick out a few of the best to read with the rest of the class. We'll see if there are any missing steps!
+This course is designed for complete beginners. If you've never programmed before, don't worry - you're definitely on the right course!
 
-## Effective Communication \(1 Hour\)
+We'll do a 5-minute quiz to help us find out the class's level, using the fun app called ["Kahoot"](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023).
 
-Working remotely \(online\) is different from working together face to face. We will look at how communication works online and get some tips on how to be more effective on this course.  
+## Software Check \(60 minutes\)
 
-## Presentations \(30 minutes\)
+\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#slack)\_\_
 
-For last week's coursework, you will have made a presentation about something you learned in the last week. Now is your chance to present it! We'll break into groups of 3 - 4 and take turns to present to the rest of your group for **5 minutes**.
+Let's look at some of the tools we use to communicate with you during the course. You should have installed the following but let's check to make sure we all know what we are doing.
 
-Remember that communicating information to others is a really important skill for programmers. Here are some tips for your presentation:
+### Slack
 
-* Look at your camera. Not the squares of faces on your screen. It will look like you are talking directly to your audience
-* Make sure you are not on mute
-* Speak clearly - check if everyone can hear you
-* Try to make it fun!
-* Stick to the time. The volunteer will cut you off at 5 minutes!
+1. Install Slack on your laptop \(and phone, if possible\)
+2. Log in to the [Code Your Future Intro to Coding Workspace](https://cyf-introtocoding.slack.com)
+3. Make sure your Slack name is your real name
+4. Add a clear face photo of yourself 
+5. Post 5 interesting things about yourself in a thread
 
-## Coursework In Perspective \(20 minutes\)
+### The Golden Rule of video calls on Zoom, Slack & Google Meet
 
-\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes-1.md#coursework-in-perspective)\_\_
+Whenever you are not talking, your microphone should be muted! This prevents distracting noise for the other participants.
 
-Although the block-based coding you practised at home solved only simple problems with a simple language, we'll look briefly at four concepts you used which are also at the heart of professional coding.
+Keep engaged with what is happening by using the thumbs up and clapping reaction buttons and the chat feature.
 
-## Coursework Time \(120 minutes\)
+### Google Classroom
 
-### Help with Coursework Exercises 
+To keep track of your course assignments we use Google Classroom. To set up your account:
 
-This is your opportunity to ask questions about last week's assignments. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
+1. Go to [classroom.google.com](https://classroom.google.com)
+2. Log in to \(or create\) your Google account
+3. Click the "+" button in the top right, then "Join class"
+4. Paste in this classroom code that your instructor gives you and click "Join"
 
-### 1-to-1 programming problem with an instructor
+#### Submitting homework on Google Classroom
 
-Whilst you are getting help with your Coursework exercises, each student will have a work with one of the instructors to solve a programming problem using the Code.org block-programming environment.
+Once you have joined the class, click the "Classwork" button at the top. You will see the list of Week 1 homework. To submit homework:
+
+1. Click on the piece of homework you have completed
+2. Click the "View Assignment" button
+3. Click the "Add or Create" button on the right hand side
+4. Here you can provide a link to homework that you have completed, or upload a file
+
+Go ahead and submit the first assignment now, "first assignment: what's your favourite music?", so that we can see Google Classroom is working for you!
+
+## Tips for success
+
+[Here is a list of some tips for success on the course](../other-resources/tips-for-success.md). We'll discuss some of these next week, and add to these as we progress.
+
+Make sure you understand the first tip now \("don't hide when you don't know"\). If you have questions, let the volunteers know. You can use the raise hand button in the chat tools, or ask a question in the chat thread.
 
 ## Feedback
 
 To make our course better we love to hear your feedback. Please spend two minutes completing this form.
 
-[Class Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScq8Zgr0pz7aMDj0D768eCpW798XgtDsKfpA6BquqK5Hdtj4A/viewform?embedded=true&entry.1672476057=Fundamentals&entry.74981796=Week+2)
+[Class Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScq8Zgr0pz7aMDj0D768eCpW798XgtDsKfpA6BquqK5Hdtj4A/viewform?embedded=true&entry.1672476057=Fundamentals&entry.74981796=Week+1)
 
-## Coursework Assignments
+## Coursework \(75 minutes\)
 
-### 1. Khan Academy: Intro to JS
+As part of your learning journey with CYF you will be expected to work at home on projects that we set for you. This will help you practice what you learn in class and get prepared for next week.
 
-We will be studying the [Khan Academy](https://www.khanacademy.org) Intro to JS course. This will give you an introduction to the JavaScript programming language which we will be using for the rest of the syllabus. To get set up follow these instructions:
+You will always be able to see a list of your coursework assignments on Google Classroom.
 
-1. Follow the instructions for registering a Khan Academy account provided by the instructors
-2. Click on Courses under `My Stuff`
-3. Choose `Adult learner` and go to the next step
-4. Choose `Computer Programming` and continue
-5. To the right of `Intro to JS: Drawing and Animation`, press Start
-6. Click the "Start" button for the "What is Programming?" lesson
-7. Read the instructions carefully and try to complete the exercises
-8. Complete as many lessons as you can **AT LEAST UP TO** the ["Text and Strings" section](https://www.khanacademy.org/computing/computer-programming/programming#text-basics). You can **SKIP** the "Becoming a community coder" section.
-9. As soon as you complete any "project", make sure you submit it for evaluation immediately, to get feedback.
+Your first week assignments will mostly be:
 
-There will be some time in class to start the first exercises. Let the instructors know if you get stuck.
+* working on a introduction to programming course 
+* preparing a very short presentation for the rest of the class
+* working on your learning plan
 
-#### No headphones? Read the subtitles or video transcript
+### 1. Code.org Course 3
 
-If you do not have headphones to watch the videos you can click on "CC" \(subtitles/closed captions\) in the video window, or underneath the video on "Transcript".
+[Code.org](https://code.org) is a website which teaches beginners how to code and gives them lots of practice.
 
-### 2. Learning How to Learn course
+It uses block-based coding \(we'll start JavaScript next week\). Don't be put off by the simplicity - even top universities teach block-based coding \(e.g. Berkeley & Harvard\).
 
-Continue to **Week 2** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 3 hours to complete.
+We will be completing the course called "Course 3".
 
-What kind of communicator are you?
+To get set up, follow these instructions:
 
-### 2a. Learning Online: Communicating and Collaborating \(do this if you have already completed the Learning How to Learn course\)
+1. Follow the instructions for registering a Code.org account provided by the instructors
+2. Start by clicking on [item 1 from lesson "2. Maze"](https://studio.code.org/s/course3/stage/2/puzzle/1). \(Yes, you should skip lesson 1\). Let the instructors know if you get stuck - it is easiest for us to help you during class
+3. Read the instructions carefully and try to complete all stages of ALL lessons **EXCEPT** the ones below
 
-[Learning Online: Communicating and Collaborating](https://www.futurelearn.com/courses/learning-and-collaborating/) is an online course on Future Learn site that teaches you how to become an effective online learner and develop your online communication skills when working with others.
+**SKIP** all of the lessons starting with these numbers:
 
-1. Click the "Join course for Free" button and sign up for an account.
-2. You can do this with your Google account if you want
-3. Work through **Week 1** of the course. It should take around **2 hours** to complete.
-4. You need to submit your comments in threads on Slack _**not**_ in the comments section on Future Learn. 
+* 1
+* 4
+* 9
+* 10
+* 18
+* 19
+* 20
 
-### 3. How to improve your workplace communication 
+\(All of the lessons starting with "Unplugged Activity"\)
 
-As we work together online it can be even more tricky to communicate effectively. Learn three ways you can improve how you send and receive messages here at CodeYourFuture and in your other workplaces. 
+Once you're finished, press submit in Google Classroom, and please add a comment mentioning your Code.org username.
 
-1. Read this [article on communication](https://www.loom.com/blog/improve-your-workplace-communication)
-2. Watch the embedded video Karina's Communication and Work Style
-3. After reading and watching the video, go back to **Step two: Determine how you communicate.** 
-4. Think about the scenarios they present in this section
-5. Write down how you would approach each scenario
-6. Think about your preferred ways of communicating, the communication tools you rely on, and the things that annoy you about other's communication.
-7. Using your answers for the above, try to write your own guide to your Communication style \( just this section, not your whole user manual! \). You can also have a go at recording a Loom video if you choose. 
+### 2. Prepare a presentation for the next class
 
-### 4. Organise a study session 
+Part of being a programmer is communicating your ideas to other people on your team. To help you practice this very important skill, for homework we want you to prepare a short \(5 minutes\) presentation about something you learned during the week. You can use [Google Slides](https://www.google.com/slides/about/) if you want to prepare slides \(this is optional\).
 
-Working together is the best way for you to learn. Teaching someone else helps to strengthen your knowledge. And getting help from your fellow students saves you time and keeps you from becoming a passive learner. 
+Here is a list of topic ideas which you could present about:
 
-Organise a study session to work on one piece of coursework. 
+* Why are the "Repeat" and "Repeat Until" blocks useful?
+* Why are "Functions" useful?
+* Why is the "Conditional" block useful?
 
-Make an announcement in Slack with: 
+If you want to present a different idea, that is fine as well. Then next week, you'll each present what you learned to a few students from the class.
 
-1. The topic of the call 
-2. The time of call \(give people a few hours to get ready. Remember Slack is asynchronous communication!\)
-3. The link to Google Meet where you will have the call. 
-4. Ask people to react if they want to attend.
-5. Open the call in Google Meet. 
-6. Keep to just one topic in the call. Max 5 -6 people in a call.
+### 3. Learning How to Learn course
 
-If there are too many people - what should you do? 
+[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) is a video course on the Coursera site that teaches you how to be the most effective at learning.
 
+1. Click the "Join for Free" button and sign up for an account
+2. Watch the videos in **Week 1** of the course. It should take around 4 hours to complete
 
+### 4. Get ready for remote learning
 
+We will be working remotely while government regulations prevent large gatherings. As you will be learning at home, it's important to make sure you have what you need to study effectively.
 
+1. Read this article on [Tips for Studying Online](https://www.timeshighereducation.com/student/advice/tips-studying-online-and-home-university-students#)  
+2. Ask yourself if you have everything you need to do the actions in the article.
+3. If you don't, what do you need? Who do you need to talk to? What do you need to do? Make a plan.
+4. Choose a space in your home where you will be studying. let everyone you live with know this is your study space. 
+5. Set it up with the supplies you will need to study and attend class. \(If you need a laptop, webcam, internet or childcare please speak to your city coordinator\)
+6. Take a photo of your workspace and post it to your class channel on Slack. 
 
+### 5. Write an "algorithm recipe"
 
+Programming is all about writing _algorithms_. What is an algorithm?
 
+1. Read this [section of a book](https://github.com/thejsway/thejsway/blob/master/manuscript/intro02.md#introduction-to-algorithms)
+2. Watch [this video](http://youtube.com/watch?v=cDA3_5982h8) 😄
 
+These show "algorithm recipes", and the video shows that you have to think carefully when writing them!
+
+Write your own "algorithm recipe" for your favourite food and submit it to Google Classroom. Next week we'll read some of the best algorithms to see if they have any missing steps!
 
