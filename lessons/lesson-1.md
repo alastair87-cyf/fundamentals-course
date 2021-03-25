@@ -18,13 +18,13 @@ Before we get started with programming we want to learn a bit about you, and you
 
 We'll start with some introductions so that we can get to know each other. We'll play some games.
 
-## Student Agreement, Code of Conduct & House Rules \(45 minutes\)
+## trainee Agreement, Code of Conduct & House Rules \(45 minutes\)
 
-\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#code-of-conduct-student-agreement-and-rules)\_\_
+\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#code-of-conduct-trainee-agreement-and-rules)\_\_
 
 While you're at Code Your Future, we expect you to follow some rules. This is so that **everyone** has a fun, productive and enjoyable experience.
 
-We'll read through the [Student Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement), [Code of Conduct](https://codeyourfuture.github.io/syllabus-master/CODE_OF_CONDUCT.html) and [House Rules](https://codeyourfuture.github.io/syllabus-master/others/house-rules.html) together and answer any questions you have about them.
+We'll read through the [trainee Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/trainee-agreement), [Code of Conduct](https://codeyourfuture.github.io/syllabus-master/CODE_OF_CONDUCT.html) and [House Rules](https://codeyourfuture.github.io/syllabus-master/others/house-rules.html) together and answer any questions you have about them.
 
 ## Getting into Technology: Why & How \(35 minutes\)
 
@@ -142,7 +142,7 @@ Here is a list of topic ideas which you could present about:
 * Why are "Functions" useful?
 * Why is the "Conditional" block useful?
 
-If you want to present a different idea, that is fine as well. Then next week, you'll each present what you learned to a few students from the class.
+If you want to present a different idea, that is fine as well. Then next week, you'll each present what you learned to a few trainees from the class.
 
 ### 3. Learning How to Learn course
 
@@ -155,7 +155,7 @@ If you want to present a different idea, that is fine as well. Then next week, y
 
 We will be working remotely while government regulations prevent large gatherings. As you will be learning at home, it's important to make sure you have what you need to study effectively.
 
-1. Read this article on [Tips for Studying Online](https://www.timeshighereducation.com/student/advice/tips-studying-online-and-home-university-students#)  
+1. Read this article on [Tips for Studying Online](https://www.timeshighereducation.com/trainee/advice/tips-studying-online-and-home-university-trainees#)  
 2. Ask yourself if you have everything you need to do the actions in the article.
 3. If you don't, what do you need? Who do you need to talk to? What do you need to do? Make a plan.
 4. Choose a space in your home where you will be studying. let everyone you live with know this is your study space. 

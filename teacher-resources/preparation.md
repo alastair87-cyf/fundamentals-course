@@ -12,7 +12,7 @@ There are a series of tasks that you need to complete to be ready to deliver thi
   * Bring a spare if there's space for 2 rooms
   * A good, cheap solution is a Chromecast
 * Power extensions/strips
-  * Student laptops tend to have poor battery life
+  * trainee laptops tend to have poor battery life
 * Spare headphones
   * Useful video courses for week 2 onwards
 * Blank stickers for name tags
@@ -39,37 +39,37 @@ In the past we've used Google Classroom to manage coursework assignment and subm
 
 The easiest way to do this is to copy a class from previous years. Ask your class coordinator how to do this.
 
-Be sure to invite all of the students to the classroom before the course starts.
+Be sure to invite all of the trainees to the classroom before the course starts.
 
 ### 2.2\) Code.org Class
 
-Assigning all students to a Code.org classroom will make it much easier to track their progress. You can follow the instruction [here](https://support.code.org/hc/en-us/articles/115000488132-Creating-a-classroom-section) to get setup.
+Assigning all trainees to a Code.org classroom will make it much easier to track their progress. You can follow the instruction [here](https://support.code.org/hc/en-us/articles/115000488132-Creating-a-classroom-section) to get setup.
 
-Be sure to invite all of the students to the class before the course starts.
+Be sure to invite all of the trainees to the class before the course starts.
 
 ### 2.3\) Khan Academy Class
 
-Follow the instructions [here ](https://www.khanacademy.org/khan-for-educators/resources/teacher-essentials/getting-started-on-khan-academy/a/teacher-quick-start-checklist)for to setup a Khan Academy Classroom. This will make it easier to track the students progress through the course.
+Follow the instructions [here ](https://www.khanacademy.org/khan-for-educators/resources/teacher-essentials/getting-started-on-khan-academy/a/teacher-quick-start-checklist)for to setup a Khan Academy Classroom. This will make it easier to track the trainees progress through the course.
 
-Be sure to invite all of the students to the class before the course starts.
+Be sure to invite all of the trainees to the class before the course starts.
 
-In order to monitor student progress on the course, it is recommended that several teacher and TA volunteers set themselves up a 'class' in KhanAcademy right at the very start of the course, and then get ALL students to join ALL classes. This gives visibility of the student rota, their exercise progress, and perhaps most importantly, their project attempts.
+In order to monitor trainee progress on the course, it is recommended that several teacher and TA volunteers set themselves up a 'class' in KhanAcademy right at the very start of the course, and then get ALL trainees to join ALL classes. This gives visibility of the trainee rota, their exercise progress, and perhaps most importantly, their project attempts.
 
-Student progress often won't be updated on your dashboard until as much as 5-10 minutes have passed.
+trainee progress often won't be updated on your dashboard until as much as 5-10 minutes have passed.
 
 Khan Academy has created some '[How to teach remotely'](https://www.khanacademy.org/khan-for-educators/k4e-us-demo/xb78db74671c953a7:khan-for-educators#xb78db74671c953a7:teaching-remotely-with-khan-academy) training materials.
 
-## 3\) Student Setup
+## 3\) trainee Setup
 
 ### 3.1\) Laptops & Hardware
 
-Be sure that all of the students have completed the [Student Preparation](../about-this-course/class-preparation.md) steps before they start the course.
+Be sure that all of the trainees have completed the [trainee Preparation](../about-this-course/class-preparation.md) steps before they start the course.
 
 If you have time, a short phone call with each of them to run through the checklist is helpful to save time during your first class. **This is especially important if you are running your class online only.**
 
-### **3.2\) Student Invites**
+### **3.2\) trainee Invites**
 
-At least a week before the first class make sure that all students know when and where they are meant to be attending.
+At least a week before the first class make sure that all trainees know when and where they are meant to be attending.
 
 It is wise to tell them to be there 5-10 minutes before you plan to start to allow for late comers.
 
@@ -77,7 +77,7 @@ It is wise to tell them to be there 5-10 minutes before you plan to start to all
 
 ### **4.1\) Teaching Assistants**
 
-This course benefits from their being a few Teaching Assistants to provide one-to-one support to students throughout the day. You should make sure that they know the following.
+This course benefits from their being a few Teaching Assistants to provide one-to-one support to trainees throughout the day. You should make sure that they know the following.
 
 * The aims of the course
 * The structure of the days
@@ -88,11 +88,11 @@ This course benefits from their being a few Teaching Assistants to provide one-t
 
 Be sure that you have familiarised yourself with all of the content that is taught over the four weeks of the course.
 
-It is advised that you attempt the coursework yourself to make sure you understand exactly what is expected of the students.
+It is advised that you attempt the coursework yourself to make sure you understand exactly what is expected of the trainees.
 
 ## 5\) Prepare for Assessments
 
-On Week 2-4 there are assessments that should be done with students to measure their progress through the course. Depending on the number of students you have attending the class you'll need extra technical people to run.
+On Week 2-4 there are assessments that should be done with trainees to measure their progress through the course. Depending on the number of trainees you have attending the class you'll need extra technical people to run.
 
 Be sure to find people to run these assessments and understand how they will be run.
 

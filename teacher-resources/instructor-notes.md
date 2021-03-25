@@ -4,7 +4,7 @@
 
 | Time | Activity |
 | :--- | :--- |
-| 00:00 - 00:30 | Preparation of space \(30 mins\) \(Before students arrive\) |
+| 00:00 - 00:30 | Preparation of space \(30 mins\) \(Before trainees arrive\) |
 | 00:30 - 01:30 | Welcome \(1 hour\) |
 | 01:30 - 02:15 | Code of Conduct & House Rules \(45 mins\) |
 | 02:15 - 02:25 | Break/Prayers \(10 mins\) |
@@ -17,20 +17,20 @@
 
 ## Overview
 
-This lesson is mostly about welcoming students to the course, letting them know the rules and the course and getting them started with Block Based coding.
+This lesson is mostly about welcoming trainees to the course, letting them know the rules and the course and getting them started with Block Based coding.
 
 Be sure to take attendance at the start of class - this will be an important data point for the Selection for the Full Class.
 
-As this is the first class, make sure you chase up students who are having trouble finding the space or connecting online. There will always be problems for the first class!
+As this is the first class, make sure you chase up trainees who are having trouble finding the space or connecting online. There will always be problems for the first class!
 
 ## Welcome
 
-The aim of this session is to welcome students to the space and get them settled. You should choose an [Energiser ](engergisers.md)and work through it with you students.
+The aim of this session is to welcome trainees to the space and get them settled. You should choose an [Energiser ](engergisers.md)and work through it with you trainees.
 
 Be sure to cover
 
 * A short introduction to CYF and what we do
-* What the students will be learning on the course
+* What the trainees will be learning on the course
 * The roles of people in the classroom, including
   * Teacher
   * Teaching Assistant
@@ -53,7 +53,7 @@ Kahoot is a web app for running quick, fun quizzes with the whole class.
 
 A prepared quiz is [available here](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023) \(editor view [here](https://create.kahoot.it/details/62bd599b-af55-41c3-b335-c28c9060c023)\). It is intended to get a general level of confidence in their programming ability from the class. To be able to compare we suggest running it in the first and last classes.
 
-The aim of this quiz is to get to know your students a little and to find out their background. Its important to find out exactly how much your students know before you start teaching.
+The aim of this quiz is to get to know your trainees a little and to find out their background. Its important to find out exactly how much your trainees know before you start teaching.
 
 ## Slack
 

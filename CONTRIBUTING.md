@@ -10,7 +10,7 @@ If you would like to change significant parts of a lesson, please first [discuss
 
 ## Discussing your change
 
-When making a significant change we ask that you discuss it with us first. This is because we do have previous experience teaching our students with the existing content. It is important for us to retain this because we have learnt which strategies tend to work better than others.
+When making a significant change we ask that you discuss it with us first. This is because we do have previous experience teaching our trainees with the existing content. It is important for us to retain this because we have learnt which strategies tend to work better than others.
 
 Please create an issue describing your change and the reasoning behind it.
 

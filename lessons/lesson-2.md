@@ -76,7 +76,7 @@ This is your opportunity to ask questions about last week's assignments. If you 
 
 ### 1-to-1 programming problem with an instructor
 
-Whilst you are getting help with your Coursework exercises, each student will have a work with one of the instructors to solve a programming problem using the Code.org block-programming environment.
+Whilst you are getting help with your Coursework exercises, each trainee will have a work with one of the instructors to solve a programming problem using the Code.org block-programming environment.
 
 ## Feedback
 
@@ -135,7 +135,7 @@ As we work together online it can be even more tricky to communicate effectively
 
 ### 4. Organise a study session
 
-Working together is the best way for you to learn. Teaching someone else helps to strengthen your knowledge. And getting help from your fellow students saves you time and keeps you from becoming a passive learner.
+Working together is the best way for you to learn. Teaching someone else helps to strengthen your knowledge. And getting help from your fellow trainees saves you time and keeps you from becoming a passive learner.
 
 Organise a study session to work on one piece of coursework.
 

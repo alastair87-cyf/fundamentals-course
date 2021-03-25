@@ -10,7 +10,7 @@ Let's make sure we know each other! Ask for a name tag if you don't already have
 
 ### Warm up game
 
-Some students will teach Zip-Zap-Boing to the others.
+Some trainees will teach Zip-Zap-Boing to the others.
 
 ## Shout out your questions \(10 minutes\)
 
@@ -34,7 +34,7 @@ _Tip_: A quiet class with no questions or suggestions is a difficult class to te
 
 ## Present Your Favourite Project \(30 minutes\)
 
-You will give a very, very simple 2 minute presentation to 2 or 3 other students and a volunteer \(if one is available\). Before the presentations we'll have 5 minutes to prep. Pick your favourite project \(or the one that's most interesting to talk about\) and get ready to explain:
+You will give a very, very simple 2 minute presentation to 2 or 3 other trainees and a volunteer \(if one is available\). Before the presentations we'll have 5 minutes to prep. Pick your favourite project \(or the one that's most interesting to talk about\) and get ready to explain:
 
 * What you added to it
 * What was difficult
@@ -52,7 +52,7 @@ Like last week, we'll work in _pairs_ to make the changes to your favourite Khan
 
 If you have finished all of the Khan Academy projects up to and including the arrays and objects sections and you need some inspiration, [here is a list of further challenges](https://github.com/CodeYourFuture/fundamentals-course/tree/223d67a828fe3554aa7bcceb3bbc6f125a390e49/lesson-4/post-khan-academy-challenges.md). These mostly challenge you to return to an earlier project and make a spin-off which uses objects and/or arrays to make it better, cleaner, and to make it easier for you to do cooler things!
 
-### Pair-programming \(2 students\)
+### Pair-programming \(2 trainees\)
 
 It's good to code with a friend. You learn SO much. Programmers call this _pair programming_ and many professional teams program in pairs for a part of each day.
 
@@ -62,7 +62,7 @@ If you need a reminder on how to pair-program effectively, see the [the notes fr
 
 \_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes-3.md#1-to-1-assessment)\_\_
 
-Each student will have a pairing session with one of the instructors to solve a programming problem using the Khan Academy Intro to JavaScript environment. We'll see how you're getting on, what help you need, and hopefully you'll get some tips from the instructor!
+Each trainee will have a pairing session with one of the instructors to solve a programming problem using the Khan Academy Intro to JavaScript environment. We'll see how you're getting on, what help you need, and hopefully you'll get some tips from the instructor!
 
 ## Kahoot - again! \(15 minutes\)
 

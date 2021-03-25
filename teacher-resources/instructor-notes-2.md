@@ -22,9 +22,9 @@ See [last lesson's instructor notes](instructor-notes-1.md#shout-out-questions)
 
 ## Getting unstuck
 
-The purpose of this session is to unblock progress through the Khan Academy course, so that the students will all be able to see all of the content.
+The purpose of this session is to unblock progress through the Khan Academy course, so that the trainees will all be able to see all of the content.
 
-Try to prioritise questions that block progress, not simply that they are curious about something. The questions gathered earlier may be helpful in prioritising. To avoid disappointment, let the students know that there will be time to cover other questions later in the day.
+Try to prioritise questions that block progress, not simply that they are curious about something. The questions gathered earlier may be helpful in prioritising. To avoid disappointment, let the trainees know that there will be time to cover other questions later in the day.
 
 ## Live coding
 
@@ -32,11 +32,11 @@ Teaching via live coding is a skill. Practice makes better!
 
 Some tips:
 
-* Use Khan Academy platform: the student's haven't seen other editors so stick with what they know
+* Use Khan Academy platform: the trainee's haven't seen other editors so stick with what they know
 * Make sure that the code can be comfortably read from the back of the room
 * Every time you add/move/delete a line of code, say what you are doing out loud for every step. Then point it out again and show it's effect on the output
-  * This slows you down so that students can keep up and check they understand correct
-* Ask the students for predictions of what they think will happen after you make a change
+  * This slows you down so that trainees can keep up and check they understand correct
+* Ask the trainees for predictions of what they think will happen after you make a change
   * A good approach might be to write down the first few suggestions, then let them vote on what they think is correct
 
 Potential ideas for live coding:
@@ -49,7 +49,7 @@ Potential ideas for live coding:
 
 Start by explaining the goal, and showing the tips from the lesson plan.
 
-Then give 5 minutes for the students to prepare which project they want to present about and what they want to say.
+Then give 5 minutes for the trainees to prepare which project they want to present about and what they want to say.
 
 Finally split into small groups \(per-table usually works well\) and take it turns to present. If possible, have a volunteer sit with each group to listen in and time-keep.
 
@@ -60,7 +60,7 @@ Finally split into small groups \(per-table usually works well\) and take it tur
 This is very likely to be the first time they have ever paired on a programming problem. Here are some tips on running a good pairing session:
 
 * Assign a volunteer to call out to switch navigator and driver roles every 10 minutes loosely
-  * Make sure the students actually switch!
+  * Make sure the trainees actually switch!
 * Monitor closely to check that one side isn't dominating
 * Don't run the session too long - it is stressful for some
 * Switch partners at least once \(e.g. different partners before and after lunch\)
@@ -71,7 +71,7 @@ This is very likely to be the first time they have ever paired on a programming 
 
 ### 1-to-1 Assessments
 
-While the class is working on their coursework, volunteers should begin the second round of assessments with students. They should be completing the "Khan Academy - Three Cars"
+While the class is working on their coursework, volunteers should begin the second round of assessments with trainees. They should be completing the "Khan Academy - Three Cars"
 
 Details for this assessment can be found here.
 

@@ -45,7 +45,7 @@ _Tip_: A quiet class with no questions or suggestions is a difficult class to te
 
 ## Present Your Favourite Project \(30 minutes\)
 
-You will give a very, very simple 2 minute presentation to 2 or 3 other students and a volunteer \(if one is available\). Before the presentations we'll have 5 minutes to prep. Pick your favourite project \(or the one that's most interesting to talk about\) and get ready to explain:
+You will give a very, very simple 2 minute presentation to 2 or 3 other trainees and a volunteer \(if one is available\). Before the presentations we'll have 5 minutes to prep. Pick your favourite project \(or the one that's most interesting to talk about\) and get ready to explain:
 
 * What you added to it
 * What was difficult
@@ -124,7 +124,7 @@ SHOW what you don't understand, and get help with it. Otherwise you will never l
 
 ### 1-to-1 programming problem with an instructor
 
-Whilst the above exercise is happening, each student will have a pairing session with one of the instructors to solve a programming problem using the Khan Academy Intro to JavaScript environment. We'll see how you're getting on, what help you need, and hopefully you'll get some tips from the instructor!
+Whilst the above exercise is happening, each trainee will have a pairing session with one of the instructors to solve a programming problem using the Khan Academy Intro to JavaScript environment. We'll see how you're getting on, what help you need, and hopefully you'll get some tips from the instructor!
 
 ## Feedback
 

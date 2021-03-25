@@ -2,7 +2,7 @@
 
 This is a rough resource for instructors.
 
-Any question that the student raised at the start of the day went up on the whiteboard and was later transcribed here (Thanks Jon and Jacobo!).  Most were answered by volunteers in 1-to-1 discussion.
+Any question that the trainee raised at the start of the day went up on the whiteboard and was later transcribed here (Thanks Jon and Jacobo!).  Most were answered by volunteers in 1-to-1 discussion.
 
 I've added some VERY rough answers here.
 

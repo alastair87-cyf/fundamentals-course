@@ -8,7 +8,7 @@ We would like you to do some preparation _**before**_ the class so you are ready
 
 ## 1. Working Agreement \(15 minutes\)
 
-Please **read** the CodeYourFuture [Student Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement).
+Please **read** the CodeYourFuture [trainee Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/trainee-agreement).
 
 Make a note of anything you don’t understand or don’t agree with. We will be discussing it in class so everyone knows what they are agreeing to.
 

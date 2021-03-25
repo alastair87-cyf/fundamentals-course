@@ -10,11 +10,11 @@ Make sure you have got access to [this Github repository](https://github.com/Cod
 
 ### Goals
 
-The goal of these assessments is to assess how well the student is progressing. Based on the outcome of the assessment, the instructor\(s\) can decide whether the student has a good understanding of the subject.
+The goal of these assessments is to assess how well the trainee is progressing. Based on the outcome of the assessment, the instructor\(s\) can decide whether the trainee has a good understanding of the subject.
 
-A volunteer should be assigned to work with 1 student at a time to "pair" on a small task. It is however not quite like normal pairing: the volunteer should aim to not "give away" the answer. If the student is struggling the volunteer can ask open questions to provide a suggestion.
+A volunteer should be assigned to work with 1 trainee at a time to "pair" on a small task. It is however not quite like normal pairing: the volunteer should aim to not "give away" the answer. If the trainee is struggling the volunteer can ask open questions to provide a suggestion.
 
-Note that they are framed as "1-to-1 programming problems" instead of assessments for students so they are less intimidated by them.
+Note that they are framed as "1-to-1 programming problems" instead of assessments for trainees so they are less intimidated by them.
 
 ### Feedback from Volunteers
 
@@ -28,9 +28,9 @@ For form administrators, that's [here](https://docs.google.com/forms/d/13F6J1HiB
 
 For this lesson we have prepared the "Three giraffes" assessment.
 
-For Students
+For trainees
 
-* [Task description \(for students\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/codeorg_three_giraffes/assessment_task.md)
+* [Task description \(for trainees\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/codeorg_three_giraffes/assessment_task.md)
 
 For Instructors
 
@@ -43,9 +43,9 @@ For Instructors
 
 For this week we have prepared the Three Cars assessment
 
-For students:
+For trainees:
 
-* [Task description \(for students\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan_academy_cars/assessment_task.md)
+* [Task description \(for trainees\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/tree/master/khan_academy_cars/assessment_task.md)
 
 For Instructors
 
@@ -56,9 +56,9 @@ For Instructors
 
 ### Week 4 - Khan Academy - Three Boxes
 
-For students
+For trainees
 
-* [Task description \(for students\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/blob/master/khan-academy-boxes-and-ribbons/assessment-tasks-for-students.md)
+* [Task description \(for trainees\)](https://github.com/CodeYourFuture/fundamentals-course-assessments/blob/master/khan-academy-boxes-and-ribbons/assessment-tasks-for-trainees.md)
 
 For Instructors
 
