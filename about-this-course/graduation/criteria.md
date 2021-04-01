@@ -4,7 +4,7 @@ description: What is our expected benchmark to progress to the full course?
 
 # Criteria
 
-This page contains the base level that we expect from you in order to graduate from this course and be eligible for the Full Stack course.
+This page covers the level we aim for you to reach before moving onto the main course. In Scotland, there is no graduation from Fundamentals and we expect everyone to move on to the main course. 
 
 ## Overview
 

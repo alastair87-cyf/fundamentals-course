@@ -6,7 +6,7 @@ A one-month short course from [Code Your Future](https://codeyourfuture.io/)
 
 * You get a taste of programming with JavaScript - one of the most popular and in-demand programming languages today.
 * You'll learn fundamentals of programming that can be applied to JavaScript and other languages.
-* You'll get to find out if you actually LIKE programming!
+* You'll discover all the benefits of learning to code.
 * You'll become familiar with some free on-line resources that we recommend to help in future study.
 
 We'll also look at what you can make with programming and what kind of jobs are available to programmers.
@@ -63,5 +63,5 @@ At the end of this short course,
 
 there will be the possibility to apply for further study on the next full-stack web development course.
 
-Whether you take that path or not, we want this course to be useful to you.
+Whatever path you take, this course will be useful to you
 

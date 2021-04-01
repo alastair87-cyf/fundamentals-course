@@ -4,7 +4,7 @@ description: How do we decide who moves onto the Full Course?
 
 # Selection Process
 
-In this document you will find the selection process that can be followed to choose who should move from the Fundamentals to the Full Stack course.
+This page covers the basics you need to understand after Fundamentals in order to succeed on the Full Stack course.
 
 As with everything at CodeYourFuture **you are welcome to edit, remix and change this as necessary to fit your specific circumstance**. You are fully in control of this process.
 
@@ -27,7 +27,7 @@ The goal of this process is as follows
 
 > **Above all else, we want to give people a chance.  
 >   
-> Our aim is to remove people who we believe to have a very low chance of succeeding or who are not as committed to the course as we need them to be.**
+> Our aim is to ensure you are committed to the course and we are able to help you succeed.**
 
 ### Selection Spreadsheet
 
@@ -100,7 +100,7 @@ Make sure you split into small groups and go through a smaller set of trainees e
 
 ### Process
 
-The aim of the selection is to find the people who are obviously not ready to join the course. Broadly, if it a trainee has completed all of the coursework and been responsive to working then they will likely be a good fit for the course.
+If you show commitment by completing coursework and asking for help when you need it, then we will know you are ready for the Full Stack course
 
 #### Coursework & Attendance Pass
 
