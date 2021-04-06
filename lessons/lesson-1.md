@@ -18,9 +18,9 @@ Before we get started with programming we want to learn a bit about you, and you
 
 We'll start with some introductions so that we can get to know each other. We'll play some games.
 
-## trainee Agreement, Code of Conduct & House Rules \(45 minutes\)
+## Trainee (Student) Agreement, Code of Conduct & House Rules \(45 minutes\)
 
-\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#code-of-conduct-trainee-agreement-and-rules)\_\_
+\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#code-of-conduct-student-agreement-and-rules)\_\_
 
 While you're at Code Your Future, we expect you to follow some rules. This is so that **everyone** has a fun, productive and enjoyable experience.
 
