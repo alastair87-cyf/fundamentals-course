@@ -25,7 +25,7 @@ As this is the first class, make sure you chase up trainees who are having troub
 
 ## Welcome
 
-The aim of this session is to welcome trainees to the space and get them settled. You should choose an [Energiser ](engergisers.md)and work through it with you trainees.
+The aim of this session is to welcome trainees to the space and get them settled. You should choose an [Energiser ]()and work through it with you trainees.
 
 Be sure to cover
 

@@ -4,7 +4,7 @@ description: What is our expected benchmark to progress to the full course?
 
 # Criteria
 
-This page covers the level we aim for you to reach before moving onto the main course. In Scotland, there is no graduation from Fundamentals and we expect everyone to move on to the main course. 
+This page covers the level we aim for you to reach before moving onto the main course. In Scotland, there is no graduation from Fundamentals and we expect everyone to move on to the main course.
 
 ## Overview
 
