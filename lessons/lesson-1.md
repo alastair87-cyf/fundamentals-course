@@ -149,7 +149,7 @@ If you want to present a different idea, that is fine as well. Then next week, y
 
 We will be working remotely while government regulations prevent large gatherings. As you will be learning at home, it's important to make sure you have what you need to study effectively.
 
-1. Read this newspaper article on [Tips for Studying Online](../other-resources/studytips-thes.pdf).
+1. Read this newspaper article on [Tips for Studying Online](https://github.com/ChrisOwen101/fundamentals-course-scotland/tree/3e71ee4b4419c7e665ccda9e56fdfafb9a0223e6/other-resources/studytips-thes.pdf).
 2. Ask yourself if you have everything you need to do the actions in the article.
 3. If you don't, what do you need? Who do you need to talk to? What do you need to do? Make a plan.
 4. Choose a space in your home where you will be studying. Let everyone you live with know this is your study space. 
