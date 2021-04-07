@@ -24,7 +24,7 @@ We'll start with some introductions so that we can get to know each other. We'll
 
 While you're at Code Your Future, we expect you to follow some rules. This is so that **everyone** has a fun, productive and enjoyable experience.
 
-We'll read through the [trainee Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement), [Code of Conduct](https://codeyourfuture.github.io/syllabus-master/CODE_OF_CONDUCT.html) and [House Rules](https://codeyourfuture.github.io/syllabus-master/others/house-rules.html) together and answer any questions you have about them.
+We'll read through the [Trainee Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement), [Code of Conduct](https://codeyourfuture.github.io/syllabus-master/CODE_OF_CONDUCT.html) and [House Rules](https://codeyourfuture.github.io/syllabus-master/others/house-rules.html) together and answer any questions you have about them.
 
 ## Getting into Technology: Why & How \(35 minutes\)
 
@@ -85,12 +85,6 @@ Go ahead and submit the first assignment now, "first assignment: what's your fav
 [Here is a list of some tips for success on the course](../other-resources/tips-for-success.md). We'll discuss some of these next week, and add to these as we progress.
 
 Make sure you understand the first tip now \("don't hide when you don't know"\). If you have questions, let the volunteers know. You can use the raise hand button in the chat tools, or ask a question in the chat thread.
-
-## Feedback
-
-To make our course better we love to hear your feedback. Please spend two minutes completing this form.
-
-[Class Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScq8Zgr0pz7aMDj0D768eCpW798XgtDsKfpA6BquqK5Hdtj4A/viewform?embedded=true&entry.1672476057=Fundamentals&entry.74981796=Week+1)
 
 ## Coursework \(75 minutes\)
 
@@ -155,12 +149,12 @@ If you want to present a different idea, that is fine as well. Then next week, y
 
 We will be working remotely while government regulations prevent large gatherings. As you will be learning at home, it's important to make sure you have what you need to study effectively.
 
-1. Read this article on [Tips for Studying Online](https://www.timeshighereducation.com/trainee/advice/tips-studying-online-and-home-university-trainees#)  
+1. Read this newspaper article on [Tips for Studying Online](../other-resources/studytips-thes.pdf).
 2. Ask yourself if you have everything you need to do the actions in the article.
 3. If you don't, what do you need? Who do you need to talk to? What do you need to do? Make a plan.
-4. Choose a space in your home where you will be studying. let everyone you live with know this is your study space. 
-5. Set it up with the supplies you will need to study and attend class. \(If you need a laptop, webcam, internet or childcare please speak to your city coordinator\)
-6. Take a photo of your workspace and post it to your class channel on Slack. 
+4. Choose a space in your home where you will be studying. Let everyone you live with know this is your study space. 
+5. Set it up with the supplies you will need to study and attend class. \(if you need a laptop, webcam, internet or childcare please speak to your city coordinator\)
+6. Take a photo of your workspace, or write a description if you prefer, and post it to your class channel on Slack. 
 
 ### 5. Write an "algorithm recipe"
 
@@ -172,4 +166,10 @@ Programming is all about writing _algorithms_. What is an algorithm?
 These show "algorithm recipes", and the video shows that you have to think carefully when writing them!
 
 Write your own "algorithm recipe" for your favourite food and submit it to Google Classroom. Next week we'll read some of the best algorithms to see if they have any missing steps!
+
+## Feedback
+
+To make our course better we love to hear your feedback. Please spend two minutes completing this form.
+
+[Class Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScq8Zgr0pz7aMDj0D768eCpW798XgtDsKfpA6BquqK5Hdtj4A/viewform?embedded=true&entry.1672476057=Fundamentals&entry.74981796=Week+1)
 
