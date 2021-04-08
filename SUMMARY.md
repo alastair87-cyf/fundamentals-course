@@ -27,5 +27,6 @@
   * [Free Resources](other-resources/free-resources.md)
   * [Tips For Success](other-resources/tips-for-success.md)
   * [Roadmap of Concepts](other-resources/roadmap-of-concepts.md)
+  * [Software Installation](other-resources/software-installation.md)
   * [Challenges with Objects and Arrays](other-resources/post-khan-academy-challenges.md)
 
