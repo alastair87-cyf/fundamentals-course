@@ -48,7 +48,7 @@ Let's look at some of the tools we use to communicate with you during the course
 
 ### Slack
 
-1. Install Slack on your laptop \(and phone, if possible\) following these instructions: [Slack Installation Instructions](../other-resources/software-install-1.md)
+1. Install Slack on your laptop \(and phone, if possible\) following these instructions: [Slack Installation Instructions](https://github.com/ChrisOwen101/fundamentals-course-scotland/tree/2201f7e57f618517f858262e5b37c660096eeeb7/other-resources/software-install-1.md)
 2. Log in to the [Code Your Future Workspace](https://codeyourfuture.slack.com)
 3. Make sure your Slack name is your real name
 4. Add a clear face photo of yourself 
@@ -149,15 +149,15 @@ If you want to present a different idea related to the block coding on Code.org,
 
 We will be working remotely while government regulations prevent large gatherings. As you will be learning at home, it's important to make sure you have what you need to study effectively.
 
-1. Read the newspaper article PDF below on Tips for Studying Online (from the Times Higher Educational Supplement).
+1. Read the newspaper article PDF below on Tips for Studying Online \(from the Times Higher Educational Supplement\).
 
 {% file src="../.gitbook/assets/studytips-thes.pdf" caption="Tips for Studying Online" %}
 
-2. Ask yourself if you have everything you need to do the actions in the article.
-3. If you don't, what do you need? Who do you need to talk to? What do you need to do? Make a plan.
-4. Choose a space in your home where you will be studying. Let everyone you live with know this is your study space. 
-5. Set it up with the supplies you will need to study and attend class. \(if you need a laptop, webcam, internet or childcare please speak to your city coordinator\)
-6. Take a photo of your workspace, or write a description if you prefer, and post it to your class channel on Slack. 
+1. Ask yourself if you have everything you need to do the actions in the article.
+2. If you don't, what do you need? Who do you need to talk to? What do you need to do? Make a plan.
+3. Choose a space in your home where you will be studying. Let everyone you live with know this is your study space. 
+4. Set it up with the supplies you will need to study and attend class. \(if you need a laptop, webcam, internet or childcare please speak to your city coordinator\)
+5. Take a photo of your workspace, or write a description if you prefer, and post it to your class channel on Slack. 
 
 ### 5. Write an "algorithm recipe"
 
