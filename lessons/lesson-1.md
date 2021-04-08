@@ -48,11 +48,11 @@ Let's look at some of the tools we use to communicate with you during the course
 
 ### Slack
 
-1. Install Slack on your laptop \(and phone, if possible\)
-2. Log in to the [Code Your Future Intro to Coding Workspace](https://cyf-introtocoding.slack.com)
+1. Install Slack on your laptop \(and phone, if possible\) following these instructions: [Slack Installation Instructions](../other-resources/software-install-1.md)
+2. Log in to the [Code Your Future Workspace](https://codeyourfuture.slack.com)
 3. Make sure your Slack name is your real name
 4. Add a clear face photo of yourself 
-5. Post 5 interesting things about yourself in a thread
+5. Post some interesting things about yourself in a thread
 
 ### The Golden Rule of video calls on Zoom, Slack & Google Meet
 
@@ -128,7 +128,7 @@ Once you're finished, press submit in Google Classroom, and please add a comment
 
 ### 2. Prepare a presentation for the next class
 
-Part of being a programmer is communicating your ideas to other people on your team. To help you practice this very important skill, for homework we want you to prepare a short \(5 minutes\) presentation about something you learned during the week. You can use [Google Slides](https://www.google.com/slides/about/) if you want to prepare slides \(this is optional\).
+Part of being a programmer is communicating your ideas to other people on your team. To help you practice this very important skill, for homework we want you to prepare a short \(up to 5 minutes\) presentation about something you learned during the week. You can use [Google Slides](https://www.google.com/slides/about/) if you want to prepare slides \(this is optional\).
 
 Here is a list of topic ideas which you could present about:
 
@@ -136,7 +136,7 @@ Here is a list of topic ideas which you could present about:
 * Why are "Functions" useful?
 * Why is the "Conditional" block useful?
 
-If you want to present a different idea, that is fine as well. Then next week, you'll each present what you learned to a few trainees from the class.
+If you want to present a different idea related to the block coding on Code.org, that is fine as well. Then next week, you'll each present what you learned to a few trainees from the class.
 
 ### 3. Learning How to Learn course
 
