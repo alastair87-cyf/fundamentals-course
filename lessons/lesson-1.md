@@ -40,6 +40,12 @@ This course is designed for complete beginners. If you've never programmed befor
 
 We'll do a 5-minute quiz to help us find out the class's level, using the fun app called ["Kahoot"](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023).
 
+## Tips for success
+
+[Here is a list of some tips for success on the course](../other-resources/tips-for-success.md). We'll discuss some of these next week, and add to these as we progress.
+
+Make sure you understand the first tip now \("don't hide when you don't know"\). If you have questions, let the volunteers know. You can use the raise hand button in the chat tools, or ask a question in the chat thread.
+
 ## Software Check \(60 minutes\)
 
 \_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#slack)\_\_
@@ -48,7 +54,7 @@ Let's look at some of the tools we use to communicate with you during the course
 
 ### Slack
 
-1. Install Slack on your laptop \(and phone, if possible\) following these instructions: [Slack Installation Instructions](https://github.com/ChrisOwen101/fundamentals-course-scotland/tree/2201f7e57f618517f858262e5b37c660096eeeb7/other-resources/software-install-1.md)
+1. Install Slack on your laptop \(and phone, if possible\) following these instructions: [Slack Installation Instructions](../other-resources/software-installation.md)
 2. Log in to the [Code Your Future Workspace](https://codeyourfuture.slack.com)
 3. Make sure your Slack name is your real name
 4. Add a clear face photo of yourself 
@@ -79,12 +85,6 @@ Once you have joined the class, click the "Classwork" button at the top. You wil
 4. Here you can provide a link to homework that you have completed, or upload a file
 
 Go ahead and submit the first assignment now, "first assignment: what's your favourite music?", so that we can see Google Classroom is working for you!
-
-## Tips for success
-
-[Here is a list of some tips for success on the course](../other-resources/tips-for-success.md). We'll discuss some of these next week, and add to these as we progress.
-
-Make sure you understand the first tip now \("don't hide when you don't know"\). If you have questions, let the volunteers know. You can use the raise hand button in the chat tools, or ask a question in the chat thread.
 
 ## Coursework \(75 minutes\)
 
