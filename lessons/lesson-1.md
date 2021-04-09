@@ -92,13 +92,26 @@ As part of your learning journey with CYF you will be expected to work at home o
 
 You will always be able to see a list of your coursework assignments on Google Classroom.
 
-Your first week assignments will mostly be:
+Your first week assignments will be about:
 
+* learning how computers process instructions
 * working on a introduction to programming course 
-* preparing a very short presentation for the rest of the class
 * working on your learning plan
 
-### 1. Code.org Course 3
+### 1. Write an "algorithm recipe"
+
+Programming is all about writing _algorithms_. What is an algorithm?
+
+1. Read this [section of a book](https://github.com/thejsway/thejsway/blob/master/manuscript/intro02.md#introduction-to-algorithms)
+2. Watch [this video](http://youtube.com/watch?v=cDA3_5982h8) 😄
+
+These show "algorithm recipes", and the video shows that you have to think carefully when writing them!
+
+Write your own "algorithm recipe" for your favourite food and submit it to Google Classroom. Next week we'll read some of the best algorithms to see if they have any missing steps!
+
+### 2. Code.org Course 3
+
+We will spend some time on this in class in breakout rooms where you will have a chance to ask questions or discuss things with your fellow trainees.
 
 [Code.org](https://code.org) is a website which teaches beginners how to code and gives them lots of practice.
 
@@ -126,18 +139,6 @@ To get set up, follow these instructions:
 
 Once you're finished, press submit in Google Classroom, and please add a comment mentioning your Code.org username.
 
-### 2. Prepare a presentation for the next class
-
-Part of being a programmer is communicating your ideas to other people on your team. To help you practice this very important skill, for homework we want you to prepare a short \(up to 5 minutes\) presentation about something you learned during the week. You can use [Google Slides](https://www.google.com/slides/about/) if you want to prepare slides \(this is optional\).
-
-Here is a list of topic ideas which you could present about:
-
-* Why are the "Repeat" and "Repeat Until" blocks useful?
-* Why are "Functions" useful?
-* Why is the "Conditional" block useful?
-
-If you want to present a different idea related to the block coding on Code.org, that is fine as well. Then next week, you'll each present what you learned to a few trainees from the class.
-
 ### 3. Learning How to Learn course
 
 [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) is a video course on the Coursera site that teaches you how to be the most effective at learning.
@@ -150,25 +151,15 @@ If you want to present a different idea related to the block coding on Code.org,
 We will be working remotely while government regulations prevent large gatherings. As you will be learning at home, it's important to make sure you have what you need to study effectively.
 
 1. Read the newspaper article PDF below on Tips for Studying Online \(from the Times Higher Educational Supplement\).
+2. Ask yourself if you have everything you need to do the actions in the article.
+3. If you don't, what do you need? Who do you need to talk to? What do you need to do? Make a plan.
+4. Choose a space in your home where you will be studying. Let everyone you live with know this is your study space. 
+5. Set it up with the supplies you will need to study and attend class. \(if you need a laptop, webcam, internet or childcare please speak to your city coordinator\)
+6. Take a photo of your workspace, or write a description if you prefer, and post it to your class channel on Slack. 
 
 {% file src="../.gitbook/assets/studytips-thes.pdf" caption="Tips for Studying Online" %}
 
-1. Ask yourself if you have everything you need to do the actions in the article.
-2. If you don't, what do you need? Who do you need to talk to? What do you need to do? Make a plan.
-3. Choose a space in your home where you will be studying. Let everyone you live with know this is your study space. 
-4. Set it up with the supplies you will need to study and attend class. \(if you need a laptop, webcam, internet or childcare please speak to your city coordinator\)
-5. Take a photo of your workspace, or write a description if you prefer, and post it to your class channel on Slack. 
-
-### 5. Write an "algorithm recipe"
-
-Programming is all about writing _algorithms_. What is an algorithm?
-
-1. Read this [section of a book](https://github.com/thejsway/thejsway/blob/master/manuscript/intro02.md#introduction-to-algorithms)
-2. Watch [this video](http://youtube.com/watch?v=cDA3_5982h8) 😄
-
-These show "algorithm recipes", and the video shows that you have to think carefully when writing them!
-
-Write your own "algorithm recipe" for your favourite food and submit it to Google Classroom. Next week we'll read some of the best algorithms to see if they have any missing steps!
+. 
 
 ## Feedback
 
