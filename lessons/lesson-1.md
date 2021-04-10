@@ -26,27 +26,13 @@ While you're at Code Your Future, we expect you to follow some rules. This is so
 
 We'll read through the [Trainee Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement), [Code of Conduct](https://codeyourfuture.github.io/syllabus-master/CODE_OF_CONDUCT.html) and [House Rules](https://codeyourfuture.github.io/syllabus-master/others/house-rules.html) together and answer any questions you have about them.
 
-## Getting into Technology: Why & How \(35 minutes\)
-
-\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#getting-into-technology-why-and-how-35-minutes)\_\_
-
-Next we'll have a presentation about why you would want to be a programmer.
-
-## What level is the class starting at? \(15 minutes\)
-
-[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#kahoot)\_\_
-
-This course is designed for complete beginners. If you've never programmed before, don't worry - you're definitely on the right course!
-
-We'll do a 5-minute quiz to help us find out the class's level, using the fun app called ["Kahoot"](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023).
-
 ## Tips for success
 
 [Here is a list of some tips for success on the course](../other-resources/tips-for-success.md). We'll discuss some of these next week, and add to these as we progress.
 
 Make sure you understand the first tip now \("don't hide when you don't know"\). If you have questions, let the volunteers know. You can use the raise hand button in the chat tools, or ask a question in the chat thread.
 
-## Software Check \(60 minutes\)
+## Preparation Check \(60 minutes\)
 
 \_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#slack)\_\_
 
@@ -86,6 +72,24 @@ Once you have joined the class, click the "Classwork" button at the top. You wil
 
 Go ahead and submit the first assignment now, "first assignment: what's your favourite music?", so that we can see Google Classroom is working for you!
 
+## What level is the class starting at? \(15 minutes\)
+
+[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#kahoot)\_\_
+
+This course is designed for complete beginners. If you've never programmed before, don't worry - you're definitely on the right course!
+
+We'll do a 5-minute quiz to help us find out the class's level, using the fun app called ["Kahoot"](https://play.kahoot.it/v2/?quizId=62bd599b-af55-41c3-b335-c28c9060c023).
+
+## Getting into Technology: Why & How \(35 minutes\)
+
+\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes.md#getting-into-technology-why-and-how-35-minutes)\_\_
+
+Next we'll have a presentation about why you would want to be a programmer.
+
+## Intro to Habits
+
+## The Resilience Questionnaire
+
 ## Coursework \(75 minutes\)
 
 As part of your learning journey with CYF you will be expected to work at home on projects that we set for you. This will help you practice what you learn in class and get prepared for next week.
@@ -95,7 +99,7 @@ You will always be able to see a list of your coursework assignments on Google C
 Your first week assignments will be about:
 
 * learning how computers process instructions
-* working on a introduction to programming course 
+* working on an introduction to programming course 
 * working on your learning plan
 
 ### 1. Write an "algorithm recipe"
