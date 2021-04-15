@@ -50,18 +50,6 @@ Last week you should have written a "algorithm recipe". The instructor will pick
 
 Working remotely \(online\) is different from working together face to face. We will look at how communication works online and get some tips on how to be more effective on this course.
 
-## Presentations \(30 minutes\)
-
-For last week's coursework, you will have made a presentation about something you learned in the last week. Now is your chance to present it! We'll break into groups of 3 - 4 and take turns to present to the rest of your group for **5 minutes**.
-
-Remember that communicating information to others is a really important skill for programmers. Here are some tips for your presentation:
-
-* Look at your camera. Not the squares of faces on your screen. It will look like you are talking directly to your audience
-* Make sure you are not on mute
-* Speak clearly - check if everyone can hear you
-* Try to make it fun!
-* Stick to the time. The volunteer will cut you off at 5 minutes!
-
 ## Coursework In Perspective \(20 minutes\)
 
 \_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes-1.md#coursework-in-perspective)\_\_
@@ -73,10 +61,6 @@ Although the block-based coding you practised at home solved only simple problem
 ### Help with Coursework Exercises
 
 This is your opportunity to ask questions about last week's assignments. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
-
-### 1-to-1 programming problem with an instructor
-
-Whilst you are getting help with your Coursework exercises, each trainee will have a work with one of the instructors to solve a programming problem using the Code.org block-programming environment.
 
 ## Feedback
 
