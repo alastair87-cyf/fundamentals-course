@@ -1,5 +1,7 @@
 # Assessments
 
+***ASSESSMENTS ARE NOT BEING USED IN SCOTLAND AS WE ARE NOT USING THIS COURSE TO SELECT STUDENTS***
+
 ## Assessments
 
 Several assessments have been designed for this course. They should be completed during the weekly class or in the weeks in between class.

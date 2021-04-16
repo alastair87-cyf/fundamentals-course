@@ -6,13 +6,7 @@ description: Algorithms & Intro to JavaScript
 
 ## Warm up activity \(30 minutes\)
 
-A picture tells a story: Let's start our introductions with an image
-
-1. Find an image online of an object that represents you or why are are on the course.  
-2. Add the image to our Slack thread and an explanation of why you chose that particular object.  
-3. Once you have completed your post, look at what other people have posted.
-4. When you find any interesting images and ask that person a follow up question about it.
-5. If someone asks a question about your picture. Make sure you reply to their question with an answer
+We will carry out a brief warm-up exercise.
 
 ## What's your name?
 
@@ -38,7 +32,12 @@ We like to use [Miro](https://miro.com/login/).
 
 Problem solving is a critical skill for programmers, including for experts. Often programmers spend most of their day solving problems in their code. Learning how to solve problems efficiently is an extremely useful skill.
 
+---
+### Breakout rooms (~5 people each)
+
 To help develop your problem solving skills, we'll play a [fun game](https://docs.google.com/presentation/d/1iHN8Up0gYLzX1MZztSSLltIIbuad_HcOwWTyC0u6Ybc/edit#slide=id.g4c9cfeb0ce_0_107) in small groups.
+
+---
 
 Then later on we, will practice working as a group to help each other solve problems using Miro, Slack and Google Meet.
 
@@ -49,6 +48,8 @@ Last week you should have written a "algorithm recipe". The instructor will pick
 ## Effective Communication \(1 Hour\)
 
 Working remotely \(online\) is different from working together face to face. We will look at how communication works online and get some tips on how to be more effective on this course.
+
+This session will be guided by visiting volunteers from Capgemini.
 
 ## Coursework In Perspective \(20 minutes\)
 
@@ -61,12 +62,6 @@ Although the block-based coding you practised at home solved only simple problem
 ### Help with Coursework Exercises
 
 This is your opportunity to ask questions about last week's assignments. If you would like some assistance on any of the exercises, the teaching assistants will be available to help.
-
-## Feedback
-
-To make our course better we love to hear your feedback. Please spend two minutes completing this form.
-
-[Class Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScq8Zgr0pz7aMDj0D768eCpW798XgtDsKfpA6BquqK5Hdtj4A/viewform?embedded=true&entry.1672476057=Fundamentals&entry.74981796=Week+2)
 
 ## Coursework Assignments
 
@@ -134,3 +129,8 @@ Make an announcement in Slack with:
 
 If there are too many people - what should you do?
 
+## Feedback
+
+To make our course better we love to hear your feedback. Please spend two minutes completing this form.
+
+[Class Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScq8Zgr0pz7aMDj0D768eCpW798XgtDsKfpA6BquqK5Hdtj4A/viewform?embedded=true&entry.1672476057=Fundamentals&entry.74981796=Week+2)
