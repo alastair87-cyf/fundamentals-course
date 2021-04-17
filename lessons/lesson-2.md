@@ -36,10 +36,12 @@ We like to use [Miro](https://miro.com/login/).
 ## Solving problems \(90 minutes\)
 
 Problem solving is a critical skill for programmers, including for experts. Often programmers spend most of their day solving problems in their code. Learning how to solve problems efficiently is an extremely useful skill.
+
 ---
-### Breakout rooms (~5 people each)
+### Breakout rooms (~5 people each, 20 minutes)
 
 To help develop your problem solving skills, we'll play a [fun game](https://docs.google.com/presentation/d/1iHN8Up0gYLzX1MZztSSLltIIbuad_HcOwWTyC0u6Ybc/edit#slide=id.g4c9cfeb0ce_0_107) in small groups.
+
 ---
 
 ## "Algorithm Recipe" Review \(30 Minutes\)

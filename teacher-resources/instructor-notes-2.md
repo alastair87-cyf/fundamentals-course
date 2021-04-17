@@ -69,13 +69,13 @@ This is very likely to be the first time they have ever paired on a programming 
 
 {% embed url="https://docs.google.com/presentation/d/11XKf7yVRh6Z6pcfgXeM9WxDLvmDT7hUEb5QkLOuHlDo/edit" caption="" %}
 
-### 1-to-1 Assessments
+<!-- ### 1-to-1 Assessments
 
 While the class is working on their coursework, volunteers should begin the second round of assessments with trainees. They should be completing the "Khan Academy - Three Cars"
 
 Details for this assessment can be found here.
 
-[Khan Academy - Three Cars](assessments.md#week-3-khan-academy-three-cars)
+[Khan Academy - Three Cars](assessments.md#week-3-khan-academy-three-cars) -->
 
 ## Assigning Coursework
 
