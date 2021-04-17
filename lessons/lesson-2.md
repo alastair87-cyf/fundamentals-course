@@ -88,6 +88,7 @@ There will be some time in class to start the first exercises. Let the instructo
 #### Breakout rooms (~5 people plus a mentor. a, 60 minutes)
 
 The trainees will start working on the Khan Academy exercises and if they get stuck they can ask each other or the menor for help.
+
 ---
 
 #### No headphones? Read the subtitles or video transcript
