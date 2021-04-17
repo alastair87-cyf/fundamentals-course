@@ -4,15 +4,21 @@ description: Algorithms & Intro to JavaScript
 
 # Lesson 2
 
-## Warm up activity \(30 minutes\)
+## Warm up activity \(60 minutes\)
 
 We will carry out a brief warm-up exercise.
 
-## What's your name?
+## Zoom review
+
+### What's your name?
 
 Let's make sure we know each other! Make sure your name is visible on Zoom. You can change your name by clicking the three dots on the right hand corner and clicking 'rename' .
 
-If you are a CYF volunteer please add 'Vol or Volunteer' after your name.
+If you are a CYF mentor or volunteer please add 'Mentor' or 'Volunteer' after your name.
+
+### Screen share test
+
+We will go around the class and you will each share your screen on Zoom to make sure this works OK.
 
 ## Shout out your questions \(10 minutes\)
 
@@ -23,23 +29,18 @@ Let's make a list of all of the programming questions we'd like to get answered 
 We like to use [Miro](https://miro.com/login/).
 
 1. Log into Miro \(your instructor will give you the link for your Miro Board\)
-2. Find the sticky notes on the board.
-3. Find the note you wrote your name on for your coursework assignment. 
-4. Write your question on your note \(you must ask a question\)
+2. Find the sticky notes option.
+3. Write your question on a note \(you must ask a question\)
 5. If you have more than 1 question, write each on a separate stiky note. To add a new note, use the toolbar on the left hand side to select a new note.
 
 ## Solving problems \(90 minutes\)
 
 Problem solving is a critical skill for programmers, including for experts. Often programmers spend most of their day solving problems in their code. Learning how to solve problems efficiently is an extremely useful skill.
-
 ---
 ### Breakout rooms (~5 people each)
 
 To help develop your problem solving skills, we'll play a [fun game](https://docs.google.com/presentation/d/1iHN8Up0gYLzX1MZztSSLltIIbuad_HcOwWTyC0u6Ybc/edit#slide=id.g4c9cfeb0ce_0_107) in small groups.
-
 ---
-
-Then later on we, will practice working as a group to help each other solve problems using Miro, Slack and Google Meet.
 
 ## "Algorithm Recipe" Review \(30 Minutes\)
 
@@ -65,7 +66,7 @@ This is your opportunity to ask questions about last week's assignments. If you 
 
 ## Coursework Assignments
 
-### 1. Khan Academy: Intro to JS
+### 1. Khan Academy: Introduction to JavaScript
 
 We will be studying the [Khan Academy](https://www.khanacademy.org) Intro to JS course. This will give you an introduction to the JavaScript programming language which we will be using for the rest of the syllabus. To get set up follow these instructions:
 
@@ -81,15 +82,19 @@ We will be studying the [Khan Academy](https://www.khanacademy.org) Intro to JS 
 
 There will be some time in class to start the first exercises. Let the instructors know if you get stuck.
 
+---
+#### Breakout rooms (~5 people plus a mentor. a, 60 minutes)
+
+The trainees will start working on the Khan Academy exercises and if they get stuck they can ask each other or the menor for help.
+---
+
 #### No headphones? Read the subtitles or video transcript
 
-If you do not have headphones to watch the videos you can click on "CC" \(subtitles/closed captions\) in the video window, or underneath the video on "Transcript".
+If you do not have headphones and cannot use speakers to watch the videos you can click on "CC" \(subtitles/closed captions\) in the video window, or underneath the video on "Transcript".
 
 ### 2. Learning How to Learn course
 
 Continue to **Week 2** of the [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn). It should take around 3 hours to complete.
-
-What kind of communicator are you?
 
 ### 2a. Learning Online: Communicating and Collaborating \(do this if you have already completed the Learning How to Learn course\)
 
@@ -122,7 +127,7 @@ Make an announcement in Slack with:
 
 1. The topic of the call 
 2. The time of call \(give people a few hours to get ready. Remember Slack is asynchronous communication!\)
-3. The link to Google Meet where you will have the call. 
+3. The link to Google Meet where you will have the call (create a new meeting on [Google Meet]). 
 4. Ask people to react if they want to attend.
 5. Open the call in Google Meet. 
 6. Keep to just one topic in the call. Max 5 -6 people in a call.
