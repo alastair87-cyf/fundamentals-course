@@ -4,26 +4,25 @@ description: Live Coding & Visual Coding
 
 # Lesson 3
 
-## Introductions \(30 minutes\)
+## Warm up activity: 10.00-10.30
 
-Let's make sure we know each other!
+A picture tells a story:
 
-### Warm up game
+1. Find an image online of an object that represents you or why are are on the course using [Bing Image Search](https://images.bing.co.uk).  
+2. Add the image to our Slack thread and an explanation of why you chose that particular object.  
+3. Once you have completed your post, look at what other people have posted.
+4. When you find any interesting images and ask that person a follow up question about it by tagging them in your reply (e.g. @dave).
+5. Try to reply to people's questions.
 
-Online icebreaker
+*Break - 10.30-10.35*
 
-## Shout out your questions \(10 minutes\)
+## General Questions & Answers: 10.35-10.45
 
 \_\_[_Instructors see here for instructions_](https://fundamentals.codeyourfuture.io/teacher-resources/instructor-notes-1#shout-out-questions)
 
-Let's make a list of all of the programming questions we'd like to get answered today, and put them on the Miro whiteboard just like we did last week.
+Let's make a list of all of the programming questions we'd like to get answered today, and put them in a thread on Slack.
 
-1. Log into Miro \(your instructor will give you the link for your Miro Board\)
-2. Find the sticky notes on the board.
-3. Write your question on a sticky note \(you must ask a question\)
-4. If you have more than 1 question, write each on a separate stiky note. To add a new note, use the toolbar on the left hand side to select a new note.
-
-## Getting Unstuck \(30 minutes\)
+## Getting Unstuck: 10.45-11.15
 
 \_\_[_Instructors see here for instructions_](https://fundamentals.codeyourfuture.io/teacher-resources/instructor-notes-2#getting-unstuck)
 
@@ -31,7 +30,11 @@ We'll now spend 30 minutes where you can ask the volunteers with help on serious
 
 If you have other more advanced questions that aren't blocking you, please **don't** ask them yet \(unless you see that the volunteers are clearly not busy helping with more fundamental issues\). We'll have time later for those questions.
 
-## Live Coding \(60 minutes\)
+## Problem Solving: 11.15-12.00
+
+*Lunch - 12.00-13.00*
+
+## Live Coding: 13.00-13.45
 
 \_\_[_Instructors see here for instructions_](https://fundamentals.codeyourfuture.io/teacher-resources/instructor-notes-2#live-coding)
 
@@ -42,26 +45,6 @@ Can you spot the instructor's coding mistakes before they do? \(There will defin
 The instructor will likely ask for suggestions on how to do something from the class = speak up, it helps the their teaching. Don't worry about getting the answer "wrong" - there is no one correct way. They might also ask you to do some of the coding, please contribute and don't worry about mistakes!
 
 _Tip_: A quiet class with no questions or suggestions is a difficult class to teach
-
-## Present Your Favourite Project \(30 minutes\)
-
-You will give a very, very simple 2 minute presentation to 2 or 3 other trainees and a volunteer \(if one is available\). Before the presentations we'll have 5 minutes to prep. Pick your favourite project \(or the one that's most interesting to talk about\) and get ready to explain:
-
-* What you added to it
-* What was difficult
-* What you like and don't like about it
-* What you would add if you had time
-* Any parts of the code you still don't understand and might want help with
-
-With your group, find a quiet space, and set a stopwatch for 2 minutes and present. Here are some tips:
-
-* Present to your classmates, not just to the volunteer
-* Cover the above points
-* Speak clearly
-* Face the people you're talking to, as much as possible. Don't just face the screen
-* Try to make it fun!
-* Stick to the time. The volunteer will cut you off at 2 minutes!
-* Don't go into too much detail on one point - 2 minutes is NOT much time at all
 
 ## Improve Your Favourite Khan Academy Project \(80 minutes\)
 
