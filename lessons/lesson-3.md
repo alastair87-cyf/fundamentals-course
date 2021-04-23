@@ -6,7 +6,7 @@ description: Live Coding & Visual Coding
 
 ## Warm up activity: 10.00-10.30
 
-A picture tells a story:
+### A picture tells a story
 
 1. Find an image online of an object that represents you or why are are on the course using [Bing Image Search](https://images.bing.co.uk).  
 2. Add the image to our Slack thread and an explanation of why you chose that particular object.  
@@ -14,9 +14,7 @@ A picture tells a story:
 4. When you find any interesting images and ask that person a follow up question about it by tagging them in your reply (e.g. @dave).
 5. Try to reply to people's questions.
 
-*Break - 10.30-10.35*
-
-## General Questions & Answers: 10.35-10.45
+## General Questions & Answers: 10.30-10.45
 
 \_\_[_Instructors see here for instructions_](https://fundamentals.codeyourfuture.io/teacher-resources/instructor-notes-1#shout-out-questions)
 
@@ -32,6 +30,10 @@ If you have other more advanced questions that aren't blocking you, please **don
 
 ## Problem Solving: 11.15-12.00
 
+Problem solving is a critical skill for programmers, including for experts. Often programmers spend most of their day solving problems in their code. Learning how to solve problems efficiently is an extremely useful skill.
+
+{% embed url="https://docs.google.com/presentation/d/1iHN8Up0gYLzX1MZztSSLltIIbuad_HcOwWTyC0u6Ybc/edit#slide=id.g4c9cfeb0ce_0_107" caption="" %}
+
 *Lunch - 12.00-13.00*
 
 ## Live Coding: 13.00-13.45
@@ -46,15 +48,28 @@ The instructor will likely ask for suggestions on how to do something from the c
 
 _Tip_: A quiet class with no questions or suggestions is a difficult class to teach
 
-## Improve Your Favourite Khan Academy Project \(80 minutes\)
+## Pair Programming: 13.45-14.45
 
-Now we'll work in _pairs_ to make the changes to your favourite Khan Academy you described in your presentation earlier. Remember that if you and your pair are totally stuck on something, ask a volunteer to help you - they're here to help!
-
-### Paired Programming
+### Introduction
 
 [_Instructors see here for instructions_](https://fundamentals.codeyourfuture.io/teacher-resources/instructor-notes-2#pairing)\_\_
 
 It's good to code with a friend. You learn SO much. Programmers call this _pair programming_ and many professional teams program in pairs for a part of each day.
+
+{% embed url="https://docs.google.com/presentation/d/11XKf7yVRh6Z6pcfgXeM9WxDLvmDT7hUEb5QkLOuHlDo/edit" caption="" %}
+
+### Zoom Remote Control
+
+
+### Khan Academy
+
+---
+_Zoom Admin Instructions_
+
+For this session the trainees need to be divided into breakout rooms of two each, so that they can work together on a short pair programming exercise.
+
+---
+Now we'll work in _pairs_ to make the changes to your favourite Khan Academy you described in your presentation earlier. Remember that if you and your pair are totally stuck on something, ask a volunteer to help you - they're here to help!
 
 We'll talk VERY briefly about what pair-programming is and how you can do it. Here are some tips on how to pair well:
 
