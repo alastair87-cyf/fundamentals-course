@@ -20,7 +20,19 @@ description: Live Coding & Visual Coding
 
 Let's make a list of all of the programming questions we'd like to get answered today, and put them in a thread on Slack.
 
-## Getting Unstuck: 10.45-11.15
+---
+## Break: 10.45-10.50
+
+---
+
+## Getting Unstuck: 10.50-11.20
+
+---
+_Zoom Admin Instructions_
+
+For this section the class needs to be split into roughly equal breakout rooms with at least one mentor in each room.
+
+---
 
 \_\_[_Instructors see here for instructions_](https://fundamentals.codeyourfuture.io/teacher-resources/instructor-notes-2#getting-unstuck)
 
@@ -28,14 +40,16 @@ We'll now spend 30 minutes where you can ask the volunteers with help on serious
 
 If you have other more advanced questions that aren't blocking you, please **don't** ask them yet \(unless you see that the volunteers are clearly not busy helping with more fundamental issues\). We'll have time later for those questions.
 
-## Problem Solving: 11.15-12.00
+## Problem Solving: 11.20-12.00
 
 Problem solving is a critical skill for programmers, including for experts. Often programmers spend most of their day solving problems in their code. Learning how to solve problems efficiently is an extremely useful skill.
 
 {% embed url="https://docs.google.com/presentation/d/1iHN8Up0gYLzX1MZztSSLltIIbuad_HcOwWTyC0u6Ybc/edit#slide=id.g4c9cfeb0ce_0_107" caption="" %}
 
-*Lunch - 12.00-13.00*
+---
+## Lunch: 12.00-13.00
 
+---
 ## Live Coding: 13.00-13.45
 
 \_\_[_Instructors see here for instructions_](https://fundamentals.codeyourfuture.io/teacher-resources/instructor-notes-2#live-coding)
@@ -48,7 +62,11 @@ The instructor will likely ask for suggestions on how to do something from the c
 
 _Tip_: A quiet class with no questions or suggestions is a difficult class to teach
 
-## Pair Programming: 13.45-14.45
+---
+## Break: 13.45-13.50
+
+---
+## Pair Programming: 13.50-14.50
 
 ### Introduction
 
@@ -60,18 +78,39 @@ It's good to code with a friend. You learn SO much. Programmers call this _pair 
 
 ### Zoom Remote Control
 
+For this session we would normally have you sit together at the same machine however if that is not possible then Zoom provides a way for you to share control of a single computer virtually.
 
+In your pairs you will need to decide which of you will share, and who will work remotely. It is likely you will both need to unmute in order to communicate.
+
+As a pair you will have been placed in a breakout toom by the class Zoom Master. The person who is going to share their screen will need to press the green Share Screen button in the centre of the bar at the bottom of the Zoom window. Then, when you are ready to lend control to your partner, move your mouse to the top centre of the screen, click the Remote Control button and then click on your partner's name
 ### Khan Academy
 
 ---
 _Zoom Admin Instructions_
 
-For this session the trainees need to be divided into breakout rooms of two each, so that they can work together on a short pair programming exercise.
+For this session the trainees need to be divided into breakout rooms of two each, so that they can work together on a pair programming exercise. You can prepare the rooms in advance and the teacher will advise you when to start and end
 
 ---
-Now we'll work in _pairs_ to make the changes to your favourite Khan Academy you described in your presentation earlier. Remember that if you and your pair are totally stuck on something, ask a volunteer to help you - they're here to help!
+
+Now we'll work in _pairs_ on the following Khan Academy challenge:
+
+[_Challenge: Moles in Holes_](https://www.khanacademy.org/computing/computer-programming/programming/functions/pc/challenge-moles-in-holes)
 
 We'll talk VERY briefly about what pair-programming is and how you can do it. Here are some tips on how to pair well:
+
+* Switch between _driver_ and _navigator_ roles every 10 minutes
+  * The "driver" is the person typing on the keyboard, just thinking about what needs to be written
+  * The "navigator" reviews what the driver is doing and is thinking about to write next
+* Don't dominate - this is teamwork
+  * Even when you're in charge of the keyboard you are not in charge of all the decisions
+  * Try to find agreement with your partner
+  * If you think you know more and better than your partner then take the opportunity to help them learn. The more they do, the more decisions they make, the more chance they'll have to reflect and learn
+* Defend yourself - some partners will try to dominate and rule the keyboard or dictate every decision
+  * Make sure you get your turn at the keyboard, and speak up when you have ideas
+  * Ask for your partner to slow down if they're going too fast or to explain if they are adding code you don't understand
+  * Take responsibility for gaining that understanding, and ask for help from your partner in getting there
+
+More general tips:
 
 * Pick a partner who is roughly at your level and ideally who is interested in a similar programming task \(e.g. animating a fish in the fish tank project, or improving the text on an Ad Design project\)
 * _Define a small task clearly_ that you are both happy to work on together. You need clarity or you may be "pulling in two different directions". Example dialogue that you might have with your partner:
@@ -86,17 +125,6 @@ We'll talk VERY briefly about what pair-programming is and how you can do it. He
   * "ooh, sounds good. i don't know how to do that"
   * "well, it's your turn on the keyboard now, anyway.  i'll talk you through it.  do you know what the random\(\) function does?"
   * ...
-* Switch between _driver_ and _navigator_ roles every 10 minutes
-  * The "driver" is the person typing on the keyboard, just thinking about what needs to be written
-  * The "navigator" reviews what the driver is doing and is thinking about to write next
-* Don't dominate - this is teamwork
-  * Even when you're in charge of the keyboard you are not in charge of all the decisions
-  * Try to find agreement with your partner
-  * If you think you know more and better than your partner then take the opportunity to help them learn. The more they do, the more decisions they make, the more chance they'll have to reflect and learn
-* Defend yourself - some partners will try to dominate and rule the keyboard or dictate every decision
-  * Make sure you get your turn at the keyboard, and speak up when you have ideas
-  * Ask for your partner to slow down if they're going too fast or to explain if they are adding code you don't understand
-  * Take responsibility for gaining that understanding, and ask for help from your partner in getting there
 
 #### I'm stressing out!
 
@@ -120,17 +148,9 @@ If you are working in a pair \(or team\) so that you can hide what you don't und
 
 SHOW what you don't understand, and get help with it. Otherwise you will never learn, and there won't be other people there to support you. Find a team to work in that is at YOUR level, and work on a simpler task that is one you fully understand, at your speed.
 
-### 1-to-1 programming problem with an instructor
+## Coursework (14.45-15.00)
 
-Whilst the above exercise is happening, each trainee will have a pairing session with one of the instructors to solve a programming problem using the Khan Academy Intro to JavaScript environment. We'll see how you're getting on, what help you need, and hopefully you'll get some tips from the instructor!
-
-## Feedback
-
-To make our course better we love to hear your feedback. Please spend two minutes completing this form.
-
-[Class Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScq8Zgr0pz7aMDj0D768eCpW798XgtDsKfpA6BquqK5Hdtj4A/viewform?embedded=true&entry.1672476057=Fundamentals&entry.74981796=Week+3)
-
-## Coursework
+This should be straightforward 
 
 Make sure you understand the homework for next week before you leave the classroom. See Google Classroom for the definitive list of homework assignments. Make sure you check it regularly.
 
@@ -138,9 +158,11 @@ Make sure you understand the homework for next week before you leave the classro
 
 Continue to work on the [Khan Academy: Intro to JS course](https://www.khanacademy.org/computing/computer-programming/programming).
 
-First, make sure that you have completed everything up to the "Text and Strings" section.
+First, make sure that you have completed everything up to the "Text and Strings" section. 
 
 If you have already done that, then you should continue **AT LEAST UP TO** the ["Writing Clean Code" section](https://www.khanacademy.org/computing/computer-programming/programming#writing-clean-code).
+
+You can skip the 'Moles in Holes' challenge since we used that in class.
 
 ### 2\) Learning How to Learn course
 
@@ -151,4 +173,8 @@ Continue to **Week 3** of the [Learning How to Learn course](https://www.courser
 Work through **Week 2** of the [Learning Online: Communicating and Collaborating](https://www.futurelearn.com/courses/learning-and-collaborating/) course. It should take around 2 hours to complete.
 
 You need to submit your comments in threads on Slack _**not**_ in the comments section on Future Learn.
+## Feedback
 
+To make our course better we love to hear your feedback. Please spend two minutes completing this form.
+
+[Class Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScq8Zgr0pz7aMDj0D768eCpW798XgtDsKfpA6BquqK5Hdtj4A/viewform?embedded=true&entry.1672476057=Fundamentals&entry.74981796=Week+3)
