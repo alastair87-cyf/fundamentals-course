@@ -82,7 +82,7 @@ For this session we would normally have you sit together at the same machine how
 
 In your pairs you will need to decide which of you will share, and who will work remotely. It is likely you will both need to unmute in order to communicate.
 
-As a pair you will have been placed in a breakout toom by the class Zoom Master. The person who is going to share their screen will need to press the green Share Screen button in the centre of the bar at the bottom of the Zoom window. Then, when you are ready to lend control to your partner, move your mouse to the top centre of the screen, click the Remote Control button and then click on your partner's name
+As a pair you will have been placed in a breakout toom by the class Zoom Master. The person who is going to share their screen will need to press the green Share Screen button in the centre of the bar at the bottom of the Zoom window. Then, when you are ready to lend control to your partner, move your mouse to the top centre of the screen, click the Remote Control button and then click on your partner's name.
 ### Khan Academy
 
 ---

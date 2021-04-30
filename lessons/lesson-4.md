@@ -4,25 +4,15 @@ description: 'More JavaScript, Reflection & Wrapping Up'
 
 # Lesson 4
 
-## Introductions \(30 minutes\)
+## Warm-up: 10.00-10.30
 
-Let's make sure we know each other! Ask for a name tag if you don't already have one.
+We will have a brief warm-up exercise.
+## General Questions & Answers: 10.30-10.55
 
-### Warm up game
+\_\_[_Instructors see here for instructions_](https://fundamentals.codeyourfuture.io/teacher-resources/instructor-notes-1#shout-out-questions)
 
-Some trainees will teach Zip-Zap-Boing to the others.
-
-## Shout out your questions \(10 minutes\)
-
-Let's make a list of all of the programming questions we'd like to get answered today, and put them on the whiteboard. When you have time, put your initials next to the questions that interest you the most.
-
-## Getting unstuck \(30 minutes\)
-
-We'll now spend 30 minutes where you can ask the volunteers with help on serious _questions that have really been blocking your progress_ through the Khan Academy course.
-
-If you have other more advanced questions that aren't blocking you, please **don't** ask them yet \(unless you see that the volunteers are clearly not busy helping with more fundamental issues\). We'll have time later for those questions.
-
-## Live Coding \(60 minutes\)
+Let's make a list of all of the programming questions we'd like to get answered today, and put them in a thread on Slack.
+## Live Coding - Arrays and Objects: 11.00-12.00
 
 The instructor will do some _live-coding_ to demonstrate solutions to some of the class's common questions. This means they will be showing their screen on the projector and working on solving a problem. This is a very effective way to learn! The instructors are professionals and there are many small \(and large!\) tips you can pick up from them.
 
@@ -32,21 +22,10 @@ The instructor will likely ask for suggestions on how to do something from the c
 
 _Tip_: A quiet class with no questions or suggestions is a difficult class to teach
 
-## Present Your Favourite Project \(30 minutes\)
+# Lunch: 12.00-13.00
+## Improve your Khan Academy Projects with Arrays and Objects: 13:30-14:20
 
-You will give a very, very simple 2 minute presentation to 2 or 3 other trainees and a volunteer \(if one is available\). Before the presentations we'll have 5 minutes to prep. Pick your favourite project \(or the one that's most interesting to talk about\) and get ready to explain:
-
-* What you added to it
-* What was difficult
-* What you like and don't like about it
-* What you would add if you had time
-* Any parts of the code you still don't understand and might want help with
-
-With your group, find a quiet space, and set a stopwatch for 2 minutes and present.
-
-If you need a reminder of how to give a good presentation, see [the tips from lesson 3](https://github.com/CodeYourFuture/fundamentals-course/tree/223d67a828fe3554aa7bcceb3bbc6f125a390e49/lesson-4/lesson-3.md#present-your-favourite-project-to-your-classmates.md)
-
-## Improve your Khan Academy Projects with Arrays and Objects \(80 minutes\)
+**Zoom Master: Students need to be in rooms of two (without a mentor). All mentors should be co-hosts.**
 
 Like last week, we'll work in _pairs_ to make the changes to your favourite Khan Academy you described in your presentation earlier. Remember that if you and your pair are totally stuck on something, ask a volunteer to help you - they're here to help!
 
@@ -58,42 +37,18 @@ It's good to code with a friend. You learn SO much. Programmers call this _pair 
 
 If you need a reminder on how to pair-program effectively, see the [the notes from lesson 3](https://github.com/CodeYourFuture/fundamentals-course/tree/223d67a828fe3554aa7bcceb3bbc6f125a390e49/lesson-4/lesson-3.md#pair-programming).
 
-### 1-to-1 programming problem with an instructor
+### Zoom Remote Control
 
-\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes-3.md#1-to-1-assessment)\_\_
+For this session we would normally have you sit together at the same machine however if that is not possible then Zoom provides a way for you to share control of a single computer virtually.
 
-Each trainee will have a pairing session with one of the instructors to solve a programming problem using the Khan Academy Intro to JavaScript environment. We'll see how you're getting on, what help you need, and hopefully you'll get some tips from the instructor!
+In your pairs you will need to decide which of you will share, and who will work remotely. It is likely you will both need to unmute in order to communicate.
 
-## Kahoot - again! \(15 minutes\)
+As a pair you will have been placed in a breakout toom by the class Zoom Master. The person who is going to share their screen will need to press the green Share Screen button in the centre of the bar at the bottom of the Zoom window. Then, when you are ready to lend control to your partner, move your mouse to the top centre of the screen, click the Remote Control button and then click on your partner's name.
 
-\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes-3.md#kahoot)\_\_
+## Buddying introduction: 14.25-14.55
 
-Let's do the first Kahoot quiz again, to find out if you feel any differently about programming now.
-
-## Reflection: How is all this relevant in the real world? \(30 minutes\)
-
-\_\_[_Instructors see here for instructions_](../teacher-resources/instructor-notes-3.md#course-reflection)\_\_
-
-Looking back at the [concept roadmap](../other-resources/roadmap-of-concepts.md), believe it or not, you've been learning the basics of programming, relevant to a whole range of coding jobs.
-
-Now the instructors will look at specific elements you've learned about and how they're relevant elsewhere.
-
-### Different JavaScript environments
-
-Outside of the Khan Academy course platform, you'll see some differences in JavaScript:
-
-* `let` and `const` used instead of `var`
-* Functions can be created many ways \(the Khan Academy way is uncommon\)
-* More features to learn about
-* ...
-
-## Other Free Resources
-
-We'll have a look at some of our favourite free resources - both online and in person - which can help you towards a career in programming and web development.
-
-See [Free Resources](../other-resources/free-resources.md) for this content
-
-## Coursework
+We'll now spend 30 minutes going over the buddy system that will operate during the main class to help support you.
+## Coursework: 14.55-15.00
 
 Make sure you understand the coursework for next week before you leave the classroom. See Google Classroom for the definitive list of coursework assignments. Make sure you check it regularly.
 
@@ -132,11 +87,3 @@ To make our course better we love to hear your feedback. Please spend two minute
 We'd love your feedback on what to improve with this course. Please spend two minutes filling in this form.
 
 [Course Feedback Form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdhfO5pSH1UszfJ08w2W4MgkIXE7QdGSc71YGa4rsTSPK3lyQ/viewform?usp=sf_link)
-
-## End with a game or two
-
-Suggestions:
-
-* More Zip-Zap-Boing
-* Happy Salmon
-
